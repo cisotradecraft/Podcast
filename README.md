@@ -1,4 +1,4 @@
-# CISO Tradecraft Episodes Arranged by Topics
+# CISO Tradecraft Podcast Episodes Arranged by Topics
 
 ## General Topics
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
