@@ -12,4 +12,7 @@
 ## Governance
 ## Identity & Access Management
 ## Business Management & Leadership
-## Security Culuture
+[How to Read Your Boss](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-the-way-you-persuade/)
+[Principles of Persuasion](https://cisotradecraft.podbean.com/e/ciso-tradecraft-principles-of-persuasion/)
+
+## Security Culture
