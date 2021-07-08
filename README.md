@@ -10,6 +10,8 @@
 ## Enabling Technologies
 ## Risk Management
 ## Governance
+[Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
+[Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
 ## Identity & Access Management
 ## Business Management & Leadership
 [How to Read Your Boss](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-the-way-you-persuade/)
