@@ -1,6 +1,6 @@
 # CISO Tradecraft Podcast Episodes Arranged by Topics
 
-## General Topics
+## CISO Role
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
 - [Your First 90 Days as a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
 ## Product Security
