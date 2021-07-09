@@ -1,4 +1,4 @@
-# CISO Tradecraft Podcast Arranged by Topics
+# CISO Tradecraft Topics
 ![CISO Tradecraft Topics](images/CISOTradecraftTopics.jpg)
 
 ## CISO Role
