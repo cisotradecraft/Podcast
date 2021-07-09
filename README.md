@@ -1,5 +1,4 @@
-# CISO Tradecraft Podcast 
-Episodes Arranged by Topics
+# CISO Tradecraft Podcast Arranged by Topics
 
 ## CISO Role
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
