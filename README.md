@@ -20,6 +20,7 @@
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
 - [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
 ## Laws, Regulations, & Oversight
+- [Cyber Security Laws](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
 ## Enabling Technologies
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
