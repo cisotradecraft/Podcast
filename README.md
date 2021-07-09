@@ -1,5 +1,8 @@
 # CISO Tradecraft Podcast Episodes Arranged by Topics
-![CISO Tradecraft](https://github.com/cisotradecraft/Podcast/blob/main/images/CISOTradecraft.jpg?v=1&s=50)
+![CISO Tradecraft](https://github.com/cisotradecraft/Podcast/blob/main/images/CISOTradecraft.jpg)
+![CISO Tradecraft](/images/CISOTradecraft.jpg){:class="img-responsive"}
+![CISO Tradecraft](/images/CISOTradecraft.jpg){:height="50%" width="50%"}
+
 ## CISO Role
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
