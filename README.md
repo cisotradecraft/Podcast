@@ -1,6 +1,7 @@
 # CISO Tradecraft Topics
 ![CISO Tradecraft Topics](images/CISOTradecraftTopics.jpg)
-<img src=images/CISOTradecraftTopics.jpg" width="200" height="200">
+
+<img src=images/CISOTradecraftTopics.jpg width="200" height="200">
                                                                   
 ## CISO Role
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
