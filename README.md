@@ -1,5 +1,5 @@
 # CISO Tradecraft Podcast Arranged by Topics
-![CISO Tradecraft Topics](images/cisotradecrafttopics.jpg)
+![CISO Tradecraft Topics](Podcast/images/CisoTradecraftTopics.jpg)
 
 ## CISO Role
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
