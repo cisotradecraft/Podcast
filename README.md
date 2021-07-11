@@ -4,7 +4,7 @@ Thanks for checking out the [CISO Tradecraft Podcast](https://www.cisotradecraft
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
 ## CISO Role
-This topic is used to increase awareness about the position of a Chief Information Security Officer (CISO) 
+This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO) 
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
 ## Product Security
