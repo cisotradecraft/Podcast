@@ -1,4 +1,5 @@
-# CISO Tradecraft Topics
+# CISO Tradecraft Podcast
+Thanks for checking out the CISO Tradecraft Podcast.  Here you can learn more about a variety of topics a CISO needs to excel at: 
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
 ## CISO Role
