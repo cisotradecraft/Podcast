@@ -1,6 +1,5 @@
 # CISO Tradecraft Podcast
 Thanks for checking out the [CISO Tradecraft Podcast](https://www.cisotradecraft.com/).  The podcast has been split into various topics of interest to help listeners.
-
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
 ## CISO Role
