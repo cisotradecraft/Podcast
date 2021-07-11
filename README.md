@@ -1,5 +1,5 @@
 # CISO Tradecraft Podcast
-Thanks for checking out the [CISO Tradecraft Podcast](https://www.cisotradecraft.com/).  Here you can listen to episodes arranged by topics relevant to leaders in Cyber Security.
+Thanks for checking out the [CISO Tradecraft Podcast](https://www.cisotradecraft.com/).  The CISO Tradecraft episodes are arranged by topics relevant to leaders in Cyber Security.
 
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
