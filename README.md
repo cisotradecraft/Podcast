@@ -1,5 +1,6 @@
 # CISO Tradecraft Podcast
-Thanks for checking out the CISO Tradecraft Podcast.  Here you can learn more about a variety of topics a CISO needs to excel at: 
+Thanks for checking out the [CISO Tradecraft Podcast](https://www.cisotradecraft.com/).  Here you can listen to episodes arranged by topics relevant to leaders in Cyber Security.
+
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
 ## CISO Role
