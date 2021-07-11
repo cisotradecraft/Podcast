@@ -1,5 +1,5 @@
 # CISO Tradecraft Podcast
-Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The podcast episodes have been arranged into topics of interest, so you can find your favorite topics to improve your CISO Tradecraft.  Please [subscribe to the podcast](https://linktr.ee/cisotradecraft) to listen to the latest content.
+Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The podcast episodes have been arranged into topics of interest, to best help you improve your CISO Tradecraft.  Please [support the podcast by subscribing](https://linktr.ee/cisotradecraft) THANK YOU!!!
 
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
