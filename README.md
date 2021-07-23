@@ -4,7 +4,7 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
 ## CISO Role
-This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help you succeed in the role.
+This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help cyber executives succeed.
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
