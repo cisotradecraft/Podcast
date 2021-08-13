@@ -44,6 +44,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 ## Risk Management
 Risk Management is about effectively identifying what the biggest risks to the company are, what's the likelihood and magnitude of an attack, and how much does it cost to remediate.  This is helpful for organizations who want more transparency.
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
+- [Third Party Risk Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-third-party-risk-management/)
 ## Governance
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
 - [Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
