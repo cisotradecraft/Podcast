@@ -47,12 +47,12 @@ Enabling Technologies is about enabling businesses to create digital transformat
 Risk Management is about effectively identifying what the biggest risks to the company are, what's the likelihood and magnitude of an attack, and how much does it cost to remediate.  This is helpful for organizations who want more transparency.
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
 - [Third Party Risk Management (with  Scott Fairbrother)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-third-party-risk-management/)
+- [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
 ## Governance
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
 - [Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
 - [Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
 - [IT Governance](https://cisotradecraft.podbean.com/e/ciso-tradecraft-it-governance/)
-- [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
 ## Identity & Access Management
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
 - [Identity and Access Management is the New Perimeter](https://cisotradecraft.podbean.com/e/identity-and-access-management-is-the-new-perimeter/)
