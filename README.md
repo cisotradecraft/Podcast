@@ -67,6 +67,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Principles of Persuasion](https://cisotradecraft.podbean.com/e/ciso-tradecraft-principles-of-persuasion/)
 - [Team Building](https://cisotradecraft.podbean.com/e/ciso-tradecraft-team-building/)
 - [Crisis Leadership with (G Mark Hardy's 9/11 Experience)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crisis-leadership-with-g-mark-hardy-s-911-experience/)
+- [Effective Meetings](https://cisotradecraft.podbean.com/e/ciso-tradecraft-effective-meetings/)
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
 - [Change Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-management/)
