@@ -34,6 +34,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Cyber Security Laws and Regulations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
 - [CMMC and Me](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cmmc-and-me/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
+- [Cyber Law Musings with Mark Rasch](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
 ## Enabling Technologies
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as the Cloud, Mobile Apps, Internet of Things, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
