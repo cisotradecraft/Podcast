@@ -31,7 +31,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
-- [Cyber Law Musings with Mark Rasch](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
+- [Cyber Law Musings (with Mark Rasch)](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
 - [Cyber Security Laws and Regulations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
 - [CMMC and Me](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cmmc-and-me/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
@@ -67,7 +67,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [How to Read Your Boss](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-the-way-you-persuade/)
 - [Principles of Persuasion](https://cisotradecraft.podbean.com/e/ciso-tradecraft-principles-of-persuasion/)
 - [Team Building](https://cisotradecraft.podbean.com/e/ciso-tradecraft-team-building/)
-- [Crisis Leadership with (G Mark Hardy's 9/11 Experience)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crisis-leadership-with-g-mark-hardy-s-911-experience/)
+- [Crisis Leadership (with G Mark Hardy's 9/11 Experience)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crisis-leadership-with-g-mark-hardy-s-911-experience/)
 - [Effective Meetings](https://cisotradecraft.podbean.com/e/ciso-tradecraft-effective-meetings/)
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
