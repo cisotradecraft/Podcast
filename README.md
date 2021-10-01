@@ -23,12 +23,12 @@ Defensive Technologies is about creating layers of defenses in an organization t
 - [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
 ## Detection and Response Capabilities
 Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.
+- [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
 - [Brace for Incident (with Bryan Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-incident-with-bryan-murphy/)
 - [Cyber Deception (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-deception-with-kevin-fiscus/)
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
 - [Everything you wanted to know about Ransomware](https://cisotradecraft.podbean.com/e/ciso-tradecraft-everything-you-wanted-to-know-about-ransomware/)
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
-- [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
 - [Cyber Law Musings with Mark Rasch](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
@@ -47,9 +47,9 @@ Enabling Technologies is about enabling businesses to create digital transformat
 ## Risk Management
 Risk Management is about effectively identifying what the biggest risks to the company are, what's the likelihood and magnitude of an attack, and how much does it cost to remediate.  This is helpful for organizations who want more transparency.
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
-- [Third Party Risk Management (with  Scott Fairbrother)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-third-party-risk-management/)
-- [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
 - [More Risky Business with FAIR](https://cisotradecraft.podbean.com/e/ciso-tradecraft-more-risky-business/)
+- [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
+- [Third Party Risk Management (with  Scott Fairbrother)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-third-party-risk-management/)
 ## Governance
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
 - [Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
