@@ -15,7 +15,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Modern Software Development Practices](https://cisotradecraft.podbean.com/e/ciso-tradecraft-modern-software-development-practices/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
 ## Defensive Technologies
-Defensive Technologies is about creating layers of defenses in an organization to protect against attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
+Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
 - [Cryptography](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cryptography/)
 - [Global War on Email](https://cisotradecraft.podbean.com/e/ciso-tradecraft-global-war-on-email/)
 - [IPv6 Your Competitive Advantage](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ipv6-your-competitive-advantage/)
