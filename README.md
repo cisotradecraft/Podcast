@@ -39,12 +39,12 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as the Cloud, Mobile Apps, Internet of Things, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
+- [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
 - [Cloud Drift (with Yoni Leitersdorf)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cloud-drift-with-yoni-leitersdorf/)
 - [How to Compare Software](https://cisotradecraft.podbean.com/e/ciso-tradecraft-how-to-compare-software/)
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
 - [Intro to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
-- [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
 ## Risk Management
 Risk Management is about effectively identifying what the biggest risks to the company are, what's the likelihood and magnitude of an attack, and how much does it cost to remediate.  This is helpful for organizations who want more transparency.
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
