@@ -44,6 +44,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
 - [Intro to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
+- [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
 ## Risk Management
 Risk Management is about effectively identifying what the biggest risks to the company are, what's the likelihood and magnitude of an attack, and how much does it cost to remediate.  This is helpful for organizations who want more transparency.
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
