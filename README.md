@@ -29,6 +29,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
 - [Everything you wanted to know about Ransomware](https://cisotradecraft.podbean.com/e/ciso-tradecraft-everything-you-wanted-to-know-about-ransomware/)
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
+- [Welcome to the C-Level (with Nate Warfield of Prevailion](https://cisotradecraft.podbean.com/e/welcome-to-the-c-level-with-nate-warfield-of-prevailion/)
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
 - [Cyber Law Musings (with Mark Rasch)](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
