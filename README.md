@@ -21,6 +21,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [IPv6 Your Competitive Advantage (with Joe Klein)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ipv6-your-competitive-advantage/)
 - [NSA's Top 10 Defensive Technologies](https://cisotradecraft.podbean.com/e/ciso-tradecraft-nsas-top-10-cybersecurity-mitigation-strategies/)
 - [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
+- [Fun and Games to Stop Bad Actors (with Dr. Neal Krawetz)](https://cisotradecraft.podbean.com/e/fun-and-games-to-stop-bad-actors-with-dr-neal-krawetz/)
 ## Detection and Response Capabilities
 Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.
 - [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
