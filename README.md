@@ -8,6 +8,8 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
+- [CISO Knowledge Domains Part 1](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-1/)
+- [CISO Knowledge Domains Part 2](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-2/)
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
 - [DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-devops/)
