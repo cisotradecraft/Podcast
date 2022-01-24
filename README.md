@@ -4,7 +4,7 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 <img src=images/CISOTradecraftTopics.jpg>
                                                                   
 ## CISO Role
-This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help cyber executives succeed.
+This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help cyber executives succeed such as Building a Cyber Strategy.
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
@@ -28,7 +28,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [Say Firewall One More Time](https://cisotradecraft.podbean.com/e/ciso-tradecraft-say-firewall-one-more-time/)
 - [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
 ## Detection and Response Capabilities
-Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.
+Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.  This section also includes Business Continuity and Disaster Recovery Planning.
 - [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
 - [Brace for Incident (with Bryan Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-incident-with-bryan-murphy/)
 - [Cyber Deception (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-deception-with-kevin-fiscus/)
@@ -44,7 +44,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [CMMC and Me](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cmmc-and-me/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
 ## Enabling Technologies
-Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as the Cloud, Mobile Apps, Internet of Things, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
+Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
 - [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
