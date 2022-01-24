@@ -79,6 +79,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [New Kid in Town (with Rebecca Mossman)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-new-kid-in-town-with-rebecca-mossman/)
 - [Presentation Skills](https://cisotradecraft.podbean.com/e/ciso-tradecraft-presentation-skills/)
 - [Principles of Persuasion](https://cisotradecraft.podbean.com/e/ciso-tradecraft-principles-of-persuasion/)
+- [Promotion through Politics](https://cisotradecraft.podbean.com/e/ciso-tradecraft-promotion-through-politics/)
 - [Team Building](https://cisotradecraft.podbean.com/e/ciso-tradecraft-team-building/)
 - [The Great Resignation](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-great-resignationn/)
 ## Security Culture
