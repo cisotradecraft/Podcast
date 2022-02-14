@@ -89,4 +89,4 @@ Security Culture is about building an organization where the entire company beco
 - [Change Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-management/)
 - [Metrics that Matter](https://cisotradecraft.podbean.com/e/ciso-tradecraft-metrics-that-matter/)
 - [Roses, Buds, & Thorns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-roses-buds-thorns/)
-- [Shall We Play A Game](https://cisotradecraft.podbean.com/e/ciso-tradecraft-shall-we-play-a-game/)
+- [Shall We Play A Game?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-shall-we-play-a-game/)
