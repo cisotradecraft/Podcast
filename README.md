@@ -10,6 +10,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
 - [CISO Knowledge Domains Part 1](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-1/)
 - [CISO Knowledge Domains Part 2](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-2/)
+- [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
 - [The 3 Keys to being a CISO (with Allan Alford)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-3-keys-to-being-a-ciso-with-allan-alford/)
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
