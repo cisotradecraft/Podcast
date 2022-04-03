@@ -5,16 +5,16 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 
 ## Contents
 <img src=images/CISOTradecraftTopics.jpg width="25" height="25">[CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)
-- <img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Business Management & Leadership](https://github.com/cisotradecraft/Podcast#business-management--leadership)
-- [Defensive Technologies](https://github.com/cisotradecraft/Podcast#defensive-technologies)
-- [Detection and Response Capabilities](https://github.com/cisotradecraft/Podcast#detection-and-response-capabilities)
-- [Enabling Technologies](https://github.com/cisotradecraft/Podcast#enabling-technologies)
-- [Governance](https://github.com/cisotradecraft/Podcast#governance)
-- [Identity & Access Management](https://github.com/cisotradecraft/Podcast#identity--access-management)
-- [Laws, Regulations, & Oversight](https://github.com/cisotradecraft/Podcast#laws-regulations--oversight)
-- [Product Security](https://github.com/cisotradecraft/Podcast#product-security)
-- [Risk Management](https://github.com/cisotradecraft/Podcast#risk-management)
-- [Security Culture](https://github.com/cisotradecraft/Podcast#security-culture)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Business Management & Leadership](https://github.com/cisotradecraft/Podcast#business-management--leadership)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Defensive Technologies](https://github.com/cisotradecraft/Podcast#defensive-technologies)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Detection and Response Capabilities](https://github.com/cisotradecraft/Podcast#detection-and-response-capabilities)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Enabling Technologies](https://github.com/cisotradecraft/Podcast#enabling-technologies)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Governance](https://github.com/cisotradecraft/Podcast#governance)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Identity & Access Management](https://github.com/cisotradecraft/Podcast#identity--access-management)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Laws, Regulations, & Oversight](https://github.com/cisotradecraft/Podcast#laws-regulations--oversight)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Product Security](https://github.com/cisotradecraft/Podcast#product-security)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Risk Management](https://github.com/cisotradecraft/Podcast#risk-management)
+<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[Security Culture](https://github.com/cisotradecraft/Podcast#security-culture)
 
 ## CISO Role
 This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help cyber executives succeed such as Building a Cyber Strategy.
