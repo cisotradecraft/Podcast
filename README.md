@@ -1,7 +1,7 @@
 # CISO Tradecraft Podcast
 Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The podcast episodes have been arranged into topics of interest to help you improve your CISO Tradecraft.  Please [support the podcast by subscribing with any of these prodcast providers.](https://linktr.ee/cisotradecraft) THANK YOU!
 
-<img src=images/CISOTradecraftTopics.jpg>
+<img src=images/CISOTradecraftTopics.jpg width="50" height="50">
 
 ## Contents
 - [CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)
