@@ -3,6 +3,7 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 
 <img src=images/CISOTradecraftTopics.jpg>
 ## Contents
+
 [CISO Role](##CISO Role)<br>
 [Product Security](##Product Security)
 
