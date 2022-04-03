@@ -4,7 +4,7 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 <img src=images/CISOTradecraftTopics.jpg width="500" height="500">
 
 ## Contents
-- [CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)
+- <img src=images/CISOTradecraftTopics.jpg width="50" height="50">[CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)
 - [Business Management & Leadership](https://github.com/cisotradecraft/Podcast#business-management--leadership)
 - [Defensive Technologies](https://github.com/cisotradecraft/Podcast#defensive-technologies)
 - [Detection and Response Capabilities](https://github.com/cisotradecraft/Podcast#detection-and-response-capabilities)
