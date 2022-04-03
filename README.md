@@ -6,9 +6,9 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 ## Contents
 - [CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)
 - [Business Management & Leadership](https://github.com/cisotradecraft/Podcast#business-management--leadership)
-- [Enabling Technologies](https://github.com/cisotradecraft/Podcast#enabling-technologies)
 - [Defensive Technologies](https://github.com/cisotradecraft/Podcast#defensive-technologies)
 - [Detection and Response Capabilities](https://github.com/cisotradecraft/Podcast#detection-and-response-capabilities)
+- [Enabling Technologies](https://github.com/cisotradecraft/Podcast#enabling-technologies)
 - [Governance](https://github.com/cisotradecraft/Podcast#governance)
 - [Identity & Access Management](https://github.com/cisotradecraft/Podcast#identity--access-management)
 - [Laws, Regulations, & Oversight](https://github.com/cisotradecraft/Podcast#laws-regulations--oversight)
