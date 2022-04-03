@@ -1,11 +1,11 @@
 # CISO Tradecraft Podcast
 Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The podcast episodes have been arranged into topics of interest to help you improve your CISO Tradecraft.  Please [support the podcast by subscribing with any of these prodcast providers.](https://linktr.ee/cisotradecraft) THANK YOU!
 
-<img src=images/CISOTradecraftTopics.jpg width="500" height="500">
+<img src=images/NewCISOTradecraftTopics.jpg width="500" height="500">
 
 ## Contents
-<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[ CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)<br>
-<img src=images/CISOTradecraftTopics.jpg width="25" height="25">[ Business Management & Leadership](https://github.com/cisotradecraft/Podcast#business-management--leadership)<br>
+<img src=images/NewCISOTradecraftTopics.jpg width="25" height="25">[ CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)<br>
+<img src=images/NewCISOTradecraftTopics.jpg width="25" height="25">[ Business Management & Leadership](https://github.com/cisotradecraft/Podcast#business-management--leadership)<br>
 <img src=images/CISOTradecraftTopics.jpg width="25" height="25">[ Defensive Technologies](https://github.com/cisotradecraft/Podcast#defensive-technologies)<br>
 <img src=images/CISOTradecraftTopics.jpg width="25" height="25">[ Detection and Response Capabilities](https://github.com/cisotradecraft/Podcast#detection-and-response-capabilities)<br>
 <img src=images/CISOTradecraftTopics.jpg width="25" height="25">[ Enabling Technologies](https://github.com/cisotradecraft/Podcast#enabling-technologies)<br>
