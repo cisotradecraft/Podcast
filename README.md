@@ -3,9 +3,8 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 
 <img src=images/CISOTradecraftTopics.jpg>
 ## Contents
-
-[CISO Role](##CISO Role)<br>
-[Product Security](##Product Security)
+- [CISO Role](##CISO Role)<br>
+- [Product Security](##Product Security)
 
 ## CISO Role
 This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help cyber executives succeed such as Building a Cyber Strategy.
