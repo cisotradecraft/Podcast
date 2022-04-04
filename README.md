@@ -48,6 +48,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [Global War on Email](https://cisotradecraft.podbean.com/e/ciso-tradecraft-global-war-on-email/)
 - [I have more Agents than the FBI](https://cisotradecraft.podbean.com/e/ciso-tradecraft-i-have-more-agents-than-the-fbi/)
 - [IPv6 Your Competitive Advantage (with Joe Klein)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ipv6-your-competitive-advantage/)
+- [Logging in with SIEMs (with Anton Chuvakin)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-logging-in-with-siems-with-anton-chuvakin/)
 - [NSA's Top 10 Defensive Technologies](https://cisotradecraft.podbean.com/e/ciso-tradecraft-nsas-top-10-cybersecurity-mitigation-strategies/)
 - [Say Firewall One More Time](https://cisotradecraft.podbean.com/e/ciso-tradecraft-say-firewall-one-more-time/)
 - [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
