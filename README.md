@@ -109,3 +109,4 @@ Security Culture is about building an organization where the entire company beco
 - [Roses, Buds, & Thorns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-roses-buds-thorns/)
 - [Shall We Play A Game?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-shall-we-play-a-game/)
 - [Thought Provoking Discussions (with Richard Thieme)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-thought-provoking-discussions-with-richard-thieme/)
+- [Wonderful (with Winn Schwartau)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-wonderful-winn-schwartau/)
