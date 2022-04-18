@@ -80,6 +80,7 @@ Governance is about understanding what technology your organization uses so you 
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
 - [Identity and Access Management is the New Perimeter](https://cisotradecraft.podbean.com/e/identity-and-access-management-is-the-new-perimeter/)
 - [Knock Knock, Who's There and Whatcha Want?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-knock-knock-who-s-there-and-whatcha-want/)
+- [Pass the Passwords](https://cisotradecraft.podbean.com/e/ciso-tradecraft-pass-the-passwords/)
 - [Zero Trust](https://cisotradecraft.podbean.com/e/ciso-tradecraft-zero-trust/)
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
