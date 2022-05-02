@@ -38,6 +38,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Principles of Persuasion](https://cisotradecraft.podbean.com/e/ciso-tradecraft-principles-of-persuasion/)
 - [Promotion through Politics](https://cisotradecraft.podbean.com/e/ciso-tradecraft-promotion-through-politics/)
 - [Team Building](https://cisotradecraft.podbean.com/e/ciso-tradecraft-team-building/)
+- [The Demise of the Cybersecurity Workforce](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-demise-of-the-cybersecurity-workforce/)
 - [The Great Resignation](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-great-resignationn/)
 - [Welcome to the C-Level (with Nate Warfield of Prevailion)](https://cisotradecraft.podbean.com/e/welcome-to-the-c-level-with-nate-warfield-of-prevailion/)
 ## Defensive Technologies
