@@ -108,6 +108,7 @@ Security Culture is about building an organization where the entire company beco
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
 - [Avoiding Death by PowerPoint](https://cisotradecraft.podbean.com/e/ciso-tradecraft-avoiding-death-by-powerpoint/)
 - [Change Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-management/)
+- [Countering Corporate Espionage](https://cisotradecraft.podbean.com/e/ciso-tradecraft-countering-corporate-espionage/)
 - [Metrics that Matter](https://cisotradecraft.podbean.com/e/ciso-tradecraft-metrics-that-matter/)
 - [Roses, Buds, & Thorns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-roses-buds-thorns/)
 - [Shall We Play A Game?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-shall-we-play-a-game/)
