@@ -27,7 +27,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [3 Business Objectives & 5 CISO Archetypes (with Christian Hyatt)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-5-ciso-archetypes-with-christian-hyatt/)
 ## Business Management & Leadership
 Business Management & Leadership is an essential skill for executives to lead and influence others.  These soft skills are critical to organizations where politics requires effective leaders to implement change via large collaboration efforts.  
-- [Addressing the Top CEO Concerns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-addressing-the-top-ceo-concerns/?customizing=1)
+- [Addressing the Top CEO Concerns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-addressing-the-top-ceo-concerns/)
 - [Crisis Leadership (with G Mark Hardy's 9/11 Experience)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crisis-leadership-with-g-mark-hardy-s-911-experience/)
 - [Crucial Conversations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crucial-conversations/)
 - [Effective Meetings](https://cisotradecraft.podbean.com/e/ciso-tradecraft-effective-meetings/)
