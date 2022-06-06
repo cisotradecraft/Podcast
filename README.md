@@ -111,6 +111,7 @@ Risk Management is about effectively identifying what the biggest risks to the c
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
 - [Avoiding Death by PowerPoint](https://cisotradecraft.podbean.com/e/ciso-tradecraft-avoiding-death-by-powerpoint/)
+- [Breaking Backbones (with Deb Radcliff)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-breaking-backbones-with-deb-radcliff/)
 - [Change Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-management/)
 - [Countering Corporate Espionage](https://cisotradecraft.podbean.com/e/ciso-tradecraft-countering-corporate-espionage/)
 - [Metrics that Matter](https://cisotradecraft.podbean.com/e/ciso-tradecraft-metrics-that-matter/)
