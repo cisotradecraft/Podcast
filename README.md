@@ -18,13 +18,15 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 ## CISO Role
 This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help cyber executives succeed such as Building a Cyber Strategy.
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
-- [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
-- [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
+- [3 Business Objectives & 5 CISO Archetypes (with Christian Hyatt)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-5-ciso-archetypes-with-christian-hyatt/)
+- [Career Lessons from a CISO (with John Hellickson)](https://cisotradecraft.podbean.com/e/81-career-lessons-from-a-ciso-with-john-hellickson/)
 - [CISO Knowledge Domains Part 1](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-1/)
 - [CISO Knowledge Domains Part 2](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-2/)
 - [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
+- [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
 - [The 3 Keys to being a CISO (with Allan Alford)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-3-keys-to-being-a-ciso-with-allan-alford/)
-- [3 Business Objectives & 5 CISO Archetypes (with Christian Hyatt)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-5-ciso-archetypes-with-christian-hyatt/)
+- [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
+
 ## Business Management & Leadership
 Business Management & Leadership is an essential skill for executives to lead and influence others.  These soft skills are critical to organizations where politics requires effective leaders to implement change via large collaboration efforts.  
 - [Addressing the Top CEO Concerns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-addressing-the-top-ceo-concerns/)
