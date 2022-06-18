@@ -80,6 +80,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
 - [Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
 - [Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
+- [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [IT Governance](https://cisotradecraft.podbean.com/e/ciso-tradecraft-it-governance/)
 ## Identity & Access Management
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
