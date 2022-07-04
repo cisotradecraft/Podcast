@@ -50,7 +50,6 @@ Business Management & Leadership is an essential skill for executives to lead an
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
 - [Active Directory is Active with Attacks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-active-directory-is-active-with-attacks/)
 - [Cryptography](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cryptography/)
-- [The Fab 5 Security Outcomes Study (with Helen Patton)](https://cisotradecraft.podbean.com/e/85-the-fab-5-security-outcomes-with-helen-patton/)
 - [Fun and Games to Stop Bad Actors (with Dr. Neal Krawetz)](https://cisotradecraft.podbean.com/e/fun-and-games-to-stop-bad-actors-with-dr-neal-krawetz/)
 - [Global War on Email](https://cisotradecraft.podbean.com/e/ciso-tradecraft-global-war-on-email/)
 - [I have more Agents than the FBI](https://cisotradecraft.podbean.com/e/ciso-tradecraft-i-have-more-agents-than-the-fbi/)
@@ -59,6 +58,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [NSA's Top 10 Defensive Technologies](https://cisotradecraft.podbean.com/e/ciso-tradecraft-nsas-top-10-cybersecurity-mitigation-strategies/)
 - [Say Firewall One More Time](https://cisotradecraft.podbean.com/e/ciso-tradecraft-say-firewall-one-more-time/)
 - [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
+- [The Fab 5 Security Outcomes Study (with Helen Patton)](https://cisotradecraft.podbean.com/e/85-the-fab-5-security-outcomes-with-helen-patton/)
 ## Detection and Response Capabilities
 Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.  This section also includes Business Continuity and Disaster Recovery Planning.
 - [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
