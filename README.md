@@ -50,6 +50,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
 - [Active Directory is Active with Attacks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-active-directory-is-active-with-attacks/)
 - [Cryptography](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cryptography/)
+- [The Fab 5 Security Outcomes Study (with Helen Patton)](https://cisotradecraft.podbean.com/e/85-the-fab-5-security-outcomes-with-helen-patton/)
 - [Fun and Games to Stop Bad Actors (with Dr. Neal Krawetz)](https://cisotradecraft.podbean.com/e/fun-and-games-to-stop-bad-actors-with-dr-neal-krawetz/)
 - [Global War on Email](https://cisotradecraft.podbean.com/e/ciso-tradecraft-global-war-on-email/)
 - [I have more Agents than the FBI](https://cisotradecraft.podbean.com/e/ciso-tradecraft-i-have-more-agents-than-the-fbi/)
