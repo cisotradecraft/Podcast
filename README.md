@@ -24,6 +24,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [CISO Knowledge Domains Part 2](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-2/)
 - [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
+- [The CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/86-the-ciso-mindmap-with-rafeeq-rehman/)
 - [The 3 Keys to being a CISO (with Allan Alford)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-3-keys-to-being-a-ciso-with-allan-alford/)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
 
