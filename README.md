@@ -66,6 +66,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Brace for Incident (with Bryan Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-incident-with-bryan-murphy/)
 - [Cyber Deception (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-deception-with-kevin-fiscus/)
 - [Flirting with Disaster (BCPs, DRPs, and BIA)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-flirting-with-disaster/)
+- [From Hunt Team to Hunter (with Bryce Kunz)](https://cisotradecraft.podbean.com/e/87-from-hunt-team-to-hunter-with-bryce-kunz/)
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
 - [Everything you wanted to know about Ransomware](https://cisotradecraft.podbean.com/e/ciso-tradecraft-everything-you-wanted-to-know-about-ransomware/)
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
