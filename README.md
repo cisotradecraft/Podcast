@@ -106,6 +106,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
 - [A CISO's Guide to Pentesting](https://cisotradecraft.podbean.com/e/90-a-ciso-s-guide-to-pentesting/)
 - [DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-devops/)
+- [Easier, Better, Faster, & Cheaper Software](https://cisotradecraft.podbean.com/e/94-easier-better-faster-cheaper-software/)
 - [The Three Ways of DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-three-ways-of-devops/)
 - [Modern Software Development Practices](https://cisotradecraft.podbean.com/e/ciso-tradecraft-modern-software-development-practices/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
