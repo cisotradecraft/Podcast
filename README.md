@@ -98,7 +98,7 @@ Identity & Access Management is about limiting the scope of an attacker who coul
 - [Zero Trust](https://cisotradecraft.podbean.com/e/ciso-tradecraft-zero-trust/)
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
-- [Brace for Audit](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-audit/)
+- [Brace for Audit (with Brian Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-audit/)
 - [Cyber Law Musings (with Mark Rasch)](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
 - [Cyber Security Laws and Regulations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
 - [CMMC and Me](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cmmc-and-me/)
