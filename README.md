@@ -104,6 +104,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Brace for Audit (with Brian Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-audit/)
 - [Cyber Law Musings (with Mark Rasch)](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
 - [Cyber Security Laws and Regulations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
+- [Cyberwar and the Law of Armed Conflict (with Lary Dietz)](https://cisotradecraft.podbean.com/e/99-cyberwar-and-the-law-of-armed-conflict-with-larry-dietz/)
 - [CMMC and Me](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cmmc-and-me/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
 ## Product Security
