@@ -85,6 +85,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Introduction to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
 - [Mobile Application Security (with Brian Reed)](https://cisotradecraft.podbean.com/e/97-mobile-application-security-with-brian-reed/)
+- [SaaS Security Posture Management (with Ben Johnson)](https://cisotradecraft.podbean.com/e/101-saas-security-posture-management-with-ben-johnson/)
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
 ## Governance
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
