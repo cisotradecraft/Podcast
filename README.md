@@ -53,6 +53,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 ## Defensive Technologies
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
 - [Active Directory is Active with Attacks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-active-directory-is-active-with-attacks/)
+- [Breach and Attack Simulation (with Dave Klein)](https://cisotradecraft.podbean.com/e/104-breach-and-attack-simulation-with-dave-klein/)
 - [Cryptography](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cryptography/)
 - [Fun and Games to Stop Bad Actors (with Dr. Neal Krawetz)](https://cisotradecraft.podbean.com/e/fun-and-games-to-stop-bad-actors-with-dr-neal-krawetz/)
 - [Global War on Email](https://cisotradecraft.podbean.com/e/ciso-tradecraft-global-war-on-email/)
