@@ -23,6 +23,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [Career Lessons from a CISO (with John Hellickson)](https://cisotradecraft.podbean.com/e/81-career-lessons-from-a-ciso-with-john-hellickson/)
 - [CISO Knowledge Domains Part 1](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-1/)
 - [CISO Knowledge Domains Part 2](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-2/)
+- [How to Win Your First CISO Role](https://cisotradecraft.podbean.com/e/106-winning-your-first-ciso-role/)
 - [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
 - [The CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/86-the-ciso-mindmap-with-rafeeq-rehman/)
@@ -53,6 +54,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 ## Defensive Technologies
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
 - [Active Directory is Active with Attacks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-active-directory-is-active-with-attacks/)
+- [Consolidating Vulnerability Management (with Jeff Gouge)](https://cisotradecraft.podbean.com/e/107-consolidating-vulnerability-management-jeff-gouge/)
 - [Cryptography](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cryptography/)
 - [Fun and Games to Stop Bad Actors (with Dr. Neal Krawetz)](https://cisotradecraft.podbean.com/e/fun-and-games-to-stop-bad-actors-with-dr-neal-krawetz/)
 - [Global War on Email](https://cisotradecraft.podbean.com/e/ciso-tradecraft-global-war-on-email/)
