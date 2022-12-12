@@ -51,7 +51,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Team Building](https://cisotradecraft.podbean.com/e/ciso-tradecraft-team-building/)
 - [The Demise of the Cybersecurity Workforce](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-demise-of-the-cybersecurity-workforce/)
 - [The Great Resignation](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-great-resignationn/)
-- [Welcome to the C-Level (with Nate Warfield of Prevailion)](https://cisotradecraft.podbean.com/e/welcome-to-the-c-level-with-nate-warfield-of-prevailion/)
+- [Welcome to the C-Level (with Nate Warfield)](https://cisotradecraft.podbean.com/e/welcome-to-the-c-level-with-nate-warfield-of-prevailion/)
 ## Defensive Technologies
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
 - [Active Directory is Active with Attacks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-active-directory-is-active-with-attacks/)
