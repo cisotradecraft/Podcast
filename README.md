@@ -104,6 +104,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
 - [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [Cyber Defense Matrix Reloaded (with Sounil Yu)](https://cisotradecraft.podbean.com/e/83-cyber-matrix-reloaded-with-sounil-yu/)
+- [Good Governance (with Sameer Sait)](https://cisotradecraft.podbean.com/e/117-good-governance-with-sameer-sait/)
 - [IT Governance](https://cisotradecraft.podbean.com/e/ciso-tradecraft-it-governance/)
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 ## Identity & Access Management
