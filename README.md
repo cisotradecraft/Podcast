@@ -78,6 +78,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Brace for Incident (with Bryan Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-incident-with-bryan-murphy/)
 - [Breach and Attack Simulation (with Dave Klein)](https://cisotradecraft.podbean.com/e/104-breach-and-attack-simulation-with-dave-klein/)
 - [Cyber Deception (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-deception-with-kevin-fiscus/)
+- [Data Engineering (with Gal Shpantzer)](https://cisotradecraft.podbean.com/e/118-data-engineering-with-gal-shpantzer/)
 - [Flirting with Disaster (BCPs, DRPs, and BIA)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-flirting-with-disaster/)
 - [From Hunt Team to Hunter (with Bryce Kunz)](https://cisotradecraft.podbean.com/e/87-from-hunt-team-to-hunter-with-bryce-kunz/)
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
@@ -120,6 +121,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Cyber Security Laws and Regulations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
 - [Cyberwar and the Law of Armed Conflict (with Lary Dietz)](https://cisotradecraft.podbean.com/e/99-cyberwar-and-the-law-of-armed-conflict-with-larry-dietz/)
 - [CMMC and Me](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cmmc-and-me/)
+- [Ethics (with Stephen Northcutt)](https://cisotradecraft.podbean.com/e/119-ethical-decisions-with-stephen-northcutt/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
