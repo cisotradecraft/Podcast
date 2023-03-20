@@ -124,6 +124,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [CMMC and Me](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cmmc-and-me/)
 - [Ethics (with Stephen Northcutt)](https://cisotradecraft.podbean.com/e/119-ethical-decisions-with-stephen-northcutt/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
+- [Legal Questions (with Evan Wolff)](https://cisotradecraft.podbean.com/e/121-legal-questions-with-evan-wolff/)
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
 - [A CISO's Guide to Pentesting](https://cisotradecraft.podbean.com/e/90-a-ciso-s-guide-to-pentesting/)
