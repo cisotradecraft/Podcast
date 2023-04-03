@@ -34,6 +34,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 
 ## Business Management & Leadership
 Business Management & Leadership is an essential skill for executives to lead and influence others.  These soft skills are critical to organizations where politics requires effective leaders to implement change via large collaboration efforts.  
+- [Accepted Cyber Security Strategy (with Branden Newman)](https://cisotradecraft.podbean.com/e/123-accepted-cyber-strategy-with-branden-newman/)
 - [Addressing the Top CEO Concerns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-addressing-the-top-ceo-concerns/)
 - [Connecting the Dots (with Sean Heritage)](https://cisotradecraft.podbean.com/e/89-connecting-the-dots-with-sean-heritage/)
 - [Crisis Leadership (with G Mark Hardy's 9/11 Experience)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crisis-leadership-with-g-mark-hardy-s-911-experience/)
