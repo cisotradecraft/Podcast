@@ -56,6 +56,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [The Great Resignation](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-great-resignationn/)
 - [The Right Stuff](https://cisotradecraft.podbean.com/e/109-the-right-stuff/)
 - [Welcome to the C-Level (with Nate Warfield)](https://cisotradecraft.podbean.com/e/welcome-to-the-c-level-with-nate-warfield-of-prevailion/)
+
 ## Defensive Technologies
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
 - [Active Directory is Active with Attacks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-active-directory-is-active-with-attacks/)
@@ -74,6 +75,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [Say Firewall One More Time](https://cisotradecraft.podbean.com/e/ciso-tradecraft-say-firewall-one-more-time/)
 - [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
 - [The Fab 5 Security Outcomes Study (with Helen Patton)](https://cisotradecraft.podbean.com/e/85-the-fab-5-security-outcomes-with-helen-patton/)
+
 ## Detection and Response Capabilities
 Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.  This section also includes Offensive Security Concepts, Business Continuity, and Disaster Recovery Planning.
 - [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
@@ -82,11 +84,13 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Cyber Deception (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-deception-with-kevin-fiscus/)
 - [Cyber Ranges (with Debbie Gordon)](https://cisotradecraft.podbean.com/e/125-cyber-ranges-with-debbie-gordon/)
 - [Data Engineering (with Gal Shpantzer)](https://cisotradecraft.podbean.com/e/118-data-engineering-with-gal-shpantzer/)
+- [Everything you wanted to know about Ransomware](https://cisotradecraft.podbean.com/e/ciso-tradecraft-everything-you-wanted-to-know-about-ransomware/)
 - [Flirting with Disaster (BCPs, DRPs, and BIA)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-flirting-with-disaster/)
 - [From Hunt Team to Hunter (with Bryce Kunz)](https://cisotradecraft.podbean.com/e/87-from-hunt-team-to-hunter-with-bryce-kunz/)
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
-- [Everything you wanted to know about Ransomware](https://cisotradecraft.podbean.com/e/ciso-tradecraft-everything-you-wanted-to-know-about-ransomware/)
+- [How to Stop Bad Guys from Staying on Your Network (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/127-how-to-stop-bad-guys-from-staying-on-your-network-with-kevin-fiscus/)
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
+
 ## Enabling Technologies
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
@@ -102,6 +106,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Predictions for 2023](https://cisotradecraft.podbean.com/e/110-predictions-for-2023/)
 - [SaaS Security Posture Management (with Ben Johnson)](https://cisotradecraft.podbean.com/e/101-saas-security-posture-management-with-ben-johnson/)
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
+
 ## Governance
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
 - [A European View of CISO Responsibilities (with Michael Krausz)](https://cisotradecraft.podbean.com/e/116-a-european-view-of-ciso-responsibilities-with-michael-krausz/)
@@ -114,12 +119,14 @@ Governance is about understanding what technology your organization uses so you 
 - [IT Governance](https://cisotradecraft.podbean.com/e/ciso-tradecraft-it-governance/)
 - [Simple, Easy, & Cheap Cybersecurity Measures (with Brent Deterding)](https://cisotradecraft.podbean.com/e/124-simple-easy-cheap-cybersecurity-measures-with-brent-deterding/)
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
+
 ## Identity & Access Management
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
 - [Identity and Access Management is the New Perimeter](https://cisotradecraft.podbean.com/e/identity-and-access-management-is-the-new-perimeter/)
 - [Knock Knock, Who's There and Whatcha Want?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-knock-knock-who-s-there-and-whatcha-want/)
 - [Pass the Passwords](https://cisotradecraft.podbean.com/e/ciso-tradecraft-pass-the-passwords/)
 - [Zero Trust](https://cisotradecraft.podbean.com/e/ciso-tradecraft-zero-trust/)
+
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
 - [Brace for Audit (with Brian Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-audit/)
@@ -130,6 +137,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Ethics (with Stephen Northcutt)](https://cisotradecraft.podbean.com/e/119-ethical-decisions-with-stephen-northcutt/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
 - [Legal Questions (with Evan Wolff)](https://cisotradecraft.podbean.com/e/121-legal-questions-with-evan-wolff/)
+
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
 - [A CISO's Guide to Pentesting](https://cisotradecraft.podbean.com/e/90-a-ciso-s-guide-to-pentesting/)
@@ -139,12 +147,14 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Modern Software Development Practices](https://cisotradecraft.podbean.com/e/ciso-tradecraft-modern-software-development-practices/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
 - [Working on the Supply Chain Gang](https://cisotradecraft.podbean.com/e/ciso-tradecraft-working-on-the-supply-chain-gang/)
+
 ## Risk Management
 Risk Management is about effectively identifying what the biggest risks to the company are, what's the likelihood and magnitude of an attack, and how much does it cost to remediate.  This is helpful for organizations who want more transparency.
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
 - [More Risky Business with FAIR](https://cisotradecraft.podbean.com/e/ciso-tradecraft-more-risky-business/)
 - [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
 - [Third Party Risk Management (with  Scott Fairbrother)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-third-party-risk-management/)
+
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
