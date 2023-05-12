@@ -23,6 +23,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [Career Lessons from a CISO (with John Hellickson)](https://cisotradecraft.podbean.com/e/81-career-lessons-from-a-ciso-with-john-hellickson/)
 - [CISO Knowledge Domains Part 1](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-1/)
 - [CISO Knowledge Domains Part 2](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-2/)
+- [How do CISOs spend their time?](https://cisotradecraft.podbean.com/e/128-the-top-10-responsibilities-of-a-ciso/)
 - [How to Win Your First CISO Role](https://cisotradecraft.podbean.com/e/106-winning-your-first-ciso-role/)
 - [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
 - [Negotiating Your Best CISO Package (with Michael Piacente)](https://cisotradecraft.podbean.com/e/120-negotiating-your-best-ciso-package-with-michael-piacente/)
