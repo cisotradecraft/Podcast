@@ -14,6 +14,7 @@ Thanks for listening to [CISO Tradecraft](https://www.cisotradecraft.com/).  The
 <img src=images/NewCISOTradecraftTopics.jpg width="25" height="25">[ Product Security](https://github.com/cisotradecraft/Podcast#product-security)<br>
 <img src=images/NewCISOTradecraftTopics.jpg width="25" height="25">[ Risk Management](https://github.com/cisotradecraft/Podcast#risk-management)<br>
 <img src=images/NewCISOTradecraftTopics.jpg width="25" height="25">[ Security Culture](https://github.com/cisotradecraft/Podcast#security-culture)<br>
+<img src=images/NewCISOTradecraftTopics.jpg width="25" height="25">[ Other Topics](https://github.com/cisotradecraft/Podcast#other-topics)<br>
 
 ## CISO Role
 This topic is used to increase understanding about the position of a Chief Information Security Officer (CISO).  It also provides tips to help cyber executives succeed such as Building a Cyber Strategy.
@@ -175,3 +176,8 @@ Security Culture is about building an organization where the entire company beco
 - [The Business Case for a Global lead of Field Cybersecurity (with Joye Purser)](https://cisotradecraft.podbean.com/e/115-the-business-case-for-a-global-lead-of-field-cybersecurity/)
 - [Thought Provoking Discussions (with Richard Thieme)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-thought-provoking-discussions-with-richard-thieme/)
 - [Wonderful (with Winn Schwartau)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-wonderful-winn-schwartau/)
+
+## Other Topics
+- [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
+- [Protecting Your Family](https://cisotradecraft.podbean.com/e/129-protecting-your-most-valuable-asset/)
+- 
