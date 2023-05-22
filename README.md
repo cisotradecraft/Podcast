@@ -28,7 +28,6 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [How to Win Your First CISO Role](https://cisotradecraft.podbean.com/e/106-winning-your-first-ciso-role/)
 - [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
 - [Negotiating Your Best CISO Package (with Michael Piacente)](https://cisotradecraft.podbean.com/e/120-negotiating-your-best-ciso-package-with-michael-piacente/)
-- [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
 - [The CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/86-the-ciso-mindmap-with-rafeeq-rehman/)
 - [The 3 Keys to being a CISO (with Allan Alford)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-3-keys-to-being-a-ciso-with-allan-alford/)
 - [Updating the Executive Leadership Team on Cyber](https://cisotradecraft.podbean.com/e/92-updating-the-executive-leadership-team-on-cyber/)
@@ -180,4 +179,4 @@ Security Culture is about building an organization where the entire company beco
 ## Other Topics
 - [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
 - [Protecting Your Family](https://cisotradecraft.podbean.com/e/129-protecting-your-most-valuable-asset/)
-- 
+- [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
