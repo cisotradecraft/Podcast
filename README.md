@@ -177,6 +177,7 @@ Security Culture is about building an organization where the entire company beco
 - [Wonderful (with Winn Schwartau)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-wonderful-winn-schwartau/)
 
 ## Other Topics
+Helpful Topics to improve the quality of life of the average CISO
 - [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
 - [Protecting Your Family](https://cisotradecraft.podbean.com/e/129-protecting-your-most-valuable-asset/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
