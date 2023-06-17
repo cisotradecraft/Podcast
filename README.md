@@ -183,3 +183,4 @@ Helpful Topics to improve the quality of life for Cyber Executives
 - [Founding to Funding (with Cyndi and Ron Gula)](https://cisotradecraft.podbean.com/e/132-founding-to-funding-with-cyndi-and-ron-gula/)
 - [Protecting Your Family](https://cisotradecraft.podbean.com/e/129-protecting-your-most-valuable-asset/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
+- [The Seesaw of Cyber Recruiting (with Lee Kushner)](https://cisotradecraft.podbean.com/e/133-the-seesaw-of-cyber-recruiting-with-lee-kushner/)
