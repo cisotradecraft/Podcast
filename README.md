@@ -21,7 +21,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [What is a CISO](https://cisotradecraft.podbean.com/e/ciso-tradecraft-what-is-a-ciso/)
 - [3 Business Objectives & 5 CISO Archetypes (with Christian Hyatt)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-5-ciso-archetypes-with-christian-hyatt/)
 - [7 Ways CISOs Setup for Success](https://cisotradecraft.podbean.com/e/100-7-ways-cisos-setup-for-success/)
-- [Board Decks with Demetrios Lazarikos (Laz)](https://cisotradecraft.podbean.com/e/135-board-decks-with-demetrios-lazarikos-laz/)
+- [Board Decks (with Demetrios Lazarikos)](https://cisotradecraft.podbean.com/e/135-board-decks-with-demetrios-lazarikos-laz/)
 - [Career Lessons from a CISO (with John Hellickson)](https://cisotradecraft.podbean.com/e/81-career-lessons-from-a-ciso-with-john-hellickson/)
 - [CISO Knowledge Domains Part 1](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-1/)
 - [CISO Knowledge Domains Part 2](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ciso-knowledge-domains-part-2/)
