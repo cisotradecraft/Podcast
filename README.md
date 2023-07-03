@@ -183,7 +183,7 @@ Security Culture is about building an organization where the entire company beco
 Helpful Topics to improve the quality of life for Cyber Executives
 - [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
 - [Founding to Funding (with Cyndi and Ron Gula)](https://cisotradecraft.podbean.com/e/132-founding-to-funding-with-cyndi-and-ron-gula/)
-- [From Hacking to Hardcover (with Bill Pollock)]([https://cisotradecraft.podbean.com/e/136-from-hacking-to-hardcover-with-bill-pollock/](https://cisotradecraft.podbean.com/e/136-from-hacking-to-hardcover-with-bill-pollock/))
+- [From Hacking to Hardcover (with Bill Pollock)](https://cisotradecraft.podbean.com/e/136-from-hacking-to-hardcover-with-bill-pollock/)
 - [Protecting Your Family](https://cisotradecraft.podbean.com/e/129-protecting-your-most-valuable-asset/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
 - [The Seesaw of Cyber Recruiting (with Lee Kushner)](https://cisotradecraft.podbean.com/e/133-the-seesaw-of-cyber-recruiting-with-lee-kushner/)
