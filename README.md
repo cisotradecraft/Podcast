@@ -32,6 +32,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [The CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/86-the-ciso-mindmap-with-rafeeq-rehman/)
 - [The 3 Keys to being a CISO (with Allan Alford)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-3-keys-to-being-a-ciso-with-allan-alford/)
 - [Updating the Executive Leadership Team on Cyber](https://cisotradecraft.podbean.com/e/92-updating-the-executive-leadership-team-on-cyber/)
+- [Updating the Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/138-updating-the-mindmap-with-rafeeq-rehman/)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
 
 ## Business Management & Leadership
