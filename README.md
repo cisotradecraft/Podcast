@@ -145,6 +145,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Emerging Risks with the Chertoff Group](https://cisotradecraft.podbean.com/e/141-emerging-risks-with-the-chertoff-group/)
 - [Ethics (with Stephen Northcutt)](https://cisotradecraft.podbean.com/e/119-ethical-decisions-with-stephen-northcutt/)
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
+- [Handling Regulatory Change](https://cisotradecraft.podbean.com/e/144-handling-regulatory-change/)
 - [Legal Questions (with Evan Wolff)](https://cisotradecraft.podbean.com/e/121-legal-questions-with-evan-wolff/)
 
 ## Product Security
