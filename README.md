@@ -118,6 +118,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
 - [A European View of CISO Responsibilities (with Michael Krausz)](https://cisotradecraft.podbean.com/e/116-a-european-view-of-ciso-responsibilities-with-michael-krausz/)
 - [Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
+- [Board Perspectives](https://cisotradecraft.podbean.com/e/149-board-perspectives/)
 - [Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
 - [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [Cyber Defense Matrix Reloaded (with Sounil Yu)](https://cisotradecraft.podbean.com/e/83-cyber-matrix-reloaded-with-sounil-yu/)
