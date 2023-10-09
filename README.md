@@ -123,6 +123,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [Cyber Defense Matrix Reloaded (with Sounil Yu)](https://cisotradecraft.podbean.com/e/83-cyber-matrix-reloaded-with-sounil-yu/)
 - [Good Governance (with Sameer Sait)](https://cisotradecraft.podbean.com/e/117-good-governance-with-sameer-sait/)
+- [Measuring Results](https://cisotradecraft.podbean.com/e/150-measuring-results/)
 - [Methodologies for Analysis (with Christopher Crowley)](https://cisotradecraft.podbean.com/e/122-methodologies-for-analysis-with-christopher-crowley/)
 - [IT Governance](https://cisotradecraft.podbean.com/e/ciso-tradecraft-it-governance/)
 - [Simple, Easy, & Cheap Cybersecurity Measures (with Brent Deterding)](https://cisotradecraft.podbean.com/e/124-simple-easy-cheap-cybersecurity-measures-with-brent-deterding/)
