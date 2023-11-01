@@ -181,6 +181,7 @@ Security Culture is about building an organization where the entire company beco
 - [Bobby the Intern](https://cisotradecraft.podbean.com/e/140-bobby-the-intern/)
 - [Change Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-management/)
 - [Countering Corporate Espionage](https://cisotradecraft.podbean.com/e/ciso-tradecraft-countering-corporate-espionage/)
+- [Game-Based Learning (with Andy Serwin & Eric Basu)](https://cisotradecraft.podbean.com/e/153-game-based-learning-with-andy-serwin-eric-basu/)
 - [Hacker Summer Camp](https://cisotradecraft.podbean.com/e/91-hacker-summer-camp/)
 - [How to Become a Cyber Security Expert](https://cisotradecraft.podbean.com/e/93-how-to-become-a-cyber-security-expert/)
 - [Listening to the Wise (with Bill Cheswick)](https://cisotradecraft.podbean.com/e/103-listening-to-the-wise-with-bill-cheswick/)
