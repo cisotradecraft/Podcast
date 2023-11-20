@@ -100,6 +100,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Insider Threat Operations (with Jim Lawler)](https://cisotradecraft.podbean.com/e/139-insider-threat-operations-with-jim-lawler/)
 - [Ransomware Response (with Ricoh Danielson)](https://cisotradecraft.podbean.com/e/134-ransomware-response-with-ricoh-danielson/)
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
+- [SMB CISO Challenges (with Kevin O'Connor)](https://cisotradecraft.podbean.com/e/156-smb-ciso-challenges-with-kevin-o-connor/)
 - [SOC Skills Part 1 (with Hasan Eksi)](https://cisotradecraft.podbean.com/e/155-soc-skills-part-1-with-hasan-eksi/)
 
 ## Enabling Technologies
