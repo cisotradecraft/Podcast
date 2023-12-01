@@ -102,6 +102,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
 - [SMB CISO Challenges (with Kevin O'Connor)](https://cisotradecraft.podbean.com/e/156-smb-ciso-challenges-with-kevin-o-connor/)
 - [SOC Skills Part 1 (with Hasan Eksi)](https://cisotradecraft.podbean.com/e/155-soc-skills-part-1-with-hasan-eksi/)
+- [SOC Skills Part 2 (with Hasan Eksi)](https://cisotradecraft.podbean.com/e/157-soc-skills-part-2-with-hasan-eksi/)
 
 ## Enabling Technologies
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
