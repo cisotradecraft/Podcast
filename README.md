@@ -89,6 +89,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
 - [Brace for Incident (with Bryan Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-incident-with-bryan-murphy/)
 - [Breach and Attack Simulation (with Dave Klein)](https://cisotradecraft.podbean.com/e/104-breach-and-attack-simulation-with-dave-klein/)
+- [Building a Data Security Lake (with Noam Brosh)](https://cisotradecraft.podbean.com/e/158-building-a-data-security-lake-with-noam-brosh/)
 - [Cyber Deception (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-deception-with-kevin-fiscus/)
 - [Cyber Ranges (with Debbie Gordon)](https://cisotradecraft.podbean.com/e/125-cyber-ranges-with-debbie-gordon/)
 - [Data Engineering (with Gal Shpantzer)](https://cisotradecraft.podbean.com/e/118-data-engineering-with-gal-shpantzer/)
