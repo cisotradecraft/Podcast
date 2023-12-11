@@ -29,6 +29,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [How to Win Your First CISO Role](https://cisotradecraft.podbean.com/e/106-winning-your-first-ciso-role/)
 - [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
 - [Negotiating Your Best CISO Package (with Michael Piacente)](https://cisotradecraft.podbean.com/e/120-negotiating-your-best-ciso-package-with-michael-piacente/)
+- [Refreshing Your Cybersecurity Strategy](https://cisotradecraft.podbean.com/e/159-refreshing-your-cybersecurity-strategy/)
 - [The CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/86-the-ciso-mindmap-with-rafeeq-rehman/)
 - [The 3 Keys to being a CISO (with Allan Alford)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-3-keys-to-being-a-ciso-with-allan-alford/)
 - [Updating the Executive Leadership Team on Cyber](https://cisotradecraft.podbean.com/e/92-updating-the-executive-leadership-team-on-cyber/)
