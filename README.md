@@ -4,7 +4,7 @@ Want to learn about cyber security?
 CISO Tradecraft® breaks down cybersecurity into various topic with easy-to-digest episodes. Whether you're a newbie or an expert, there's important tradecraft here for everyone to learn.  
 
 [Please subscribe](https://linktr.ee/cisotradecraft) to get the lastest content. THANK YOU!
-## Contents
+## Topics
 <img src=images/NewCISOTradecraftTopics.jpg width="500" height="500">
 
 <img src=images/NewCISOTradecraftTopics.jpg width="25" height="25">[ CISO Role](https://github.com/cisotradecraft/Podcast/blob/main/README.md#ciso-role)<br>
