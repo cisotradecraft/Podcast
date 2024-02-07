@@ -1,5 +1,5 @@
 # CISO Tradecraft® Podcast
-<b>Want to learn about cyber security?</b>
+Want to learn about cyber security?</n>
 CISO Tradecraft® breaks down cybersecurity into various topic domains with easy-to-digest episodes. Whether you're a newbie or an expert, there's important tradecraft here for everyone to learn.  
 
 [Please subscribe](https://linktr.ee/cisotradecraft) to get the lastest content. THANK YOU!
