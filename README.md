@@ -101,6 +101,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
 - [How to Stop Bad Guys from Staying on Your Network (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/127-how-to-stop-bad-guys-from-staying-on-your-network-with-kevin-fiscus/)
 - [Insider Threat Operations (with Jim Lawler)](https://cisotradecraft.podbean.com/e/139-insider-threat-operations-with-jim-lawler/)
+- [Modernizing our SOC Ingest (with JP Bourget)](https://cisotradecraft.podbean.com/e/165-modernizing-our-soc-ingest-with-jp-bourget/)
 - [Ransomware Response (with Ricoh Danielson)](https://cisotradecraft.podbean.com/e/134-ransomware-response-with-ricoh-danielson/)
 - [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
 - [SMB CISO Challenges (with Kevin O'Connor)](https://cisotradecraft.podbean.com/e/156-smb-ciso-challenges-with-kevin-o-connor/)
@@ -131,6 +132,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
 - [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [Cyber Defense Matrix Reloaded (with Sounil Yu)](https://cisotradecraft.podbean.com/e/83-cyber-matrix-reloaded-with-sounil-yu/)
+- [Cyber Acronymns You Should Know / The Cyber Update](https://cisotradecraft.podbean.com/e/166-cyber-acronyms-you-should-know/)
 - [Good Governance (with Sameer Sait)](https://cisotradecraft.podbean.com/e/117-good-governance-with-sameer-sait/)
 - [Measuring Results](https://cisotradecraft.podbean.com/e/150-measuring-results/)
 - [Methodologies for Analysis (with Christopher Crowley)](https://cisotradecraft.podbean.com/e/122-methodologies-for-analysis-with-christopher-crowley/)
@@ -138,6 +140,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Simple, Easy, & Cheap Cybersecurity Measures (with Brent Deterding)](https://cisotradecraft.podbean.com/e/124-simple-easy-cheap-cybersecurity-measures-with-brent-deterding/)
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
+
 
 ## Identity & Access Management
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
@@ -202,6 +205,7 @@ Security Culture is about building an organization where the entire company beco
 - [Shall We Play A Game?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-shall-we-play-a-game/)
 - [Start Me Up (with Bob Cousins)](https://cisotradecraft.podbean.com/e/105-start-me-up-with-bob-cousins/)
 - [Tackling 3 Really Hard Problems in Cyber (with Andy Ellis)](https://cisotradecraft.podbean.com/e/88-tackling-3-really-hard-problems-in-cyber-with-andy-ellis/)
+- [The 7 Lies in Cyber](https://cisotradecraft.podbean.com/e/164-the-7-lies-in-cyber/)
 - [The Business Case for a Global lead of Field Cybersecurity (with Joye Purser)](https://cisotradecraft.podbean.com/e/115-the-business-case-for-a-global-lead-of-field-cybersecurity/)
 - [Thought Provoking Discussions (with Richard Thieme)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-thought-provoking-discussions-with-richard-thieme/)
 - [Wonderful (with Winn Schwartau)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-wonderful-winn-schwartau/)
