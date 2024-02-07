@@ -1,4 +1,4 @@
-# CISO Tradecraft® Podcast
+CISO Tradecraft® 
 Want to learn about cyber security?
 
 CISO Tradecraft® breaks down cybersecurity into various topic with easy-to-digest episodes. Whether you're a newbie or an expert, there's important tradecraft here for everyone to learn.  
