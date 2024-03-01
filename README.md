@@ -59,6 +59,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Presentation Skills](https://cisotradecraft.podbean.com/e/ciso-tradecraft-presentation-skills/)
 - [Principles of Persuasion](https://cisotradecraft.podbean.com/e/ciso-tradecraft-principles-of-persuasion/)
 - [Promotion through Politics](https://cisotradecraft.podbean.com/e/ciso-tradecraft-promotion-through-politics/)
+- [Responsibility, Accountability, and Authority](https://cisotradecraft.podbean.com/e/170-responsibility-accountability-and-authority/)
 - [Show Me The Money (with Nick Vigier)](https://cisotradecraft.podbean.com/e/108-budgeting-for-cisos-with-nick-vigier/)
 - [Speak My Language (with Andrew Chrostowski)](https://cisotradecraft.podbean.com/e/152-speak-my-language-with-andrew-chrostowski/)
 - [Team Building](https://cisotradecraft.podbean.com/e/ciso-tradecraft-team-building/)
@@ -151,6 +152,7 @@ Identity & Access Management is about limiting the scope of an attacker who coul
 - [Betting on MFA](https://cisotradecraft.podbean.com/e/147-betting-on-mfa/)
 - [Identity and Access Management is the New Perimeter](https://cisotradecraft.podbean.com/e/identity-and-access-management-is-the-new-perimeter/)
 - [Knock Knock, Who's There and Whatcha Want?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-knock-knock-who-s-there-and-whatcha-want/)
+- [MFA Mishaps](https://cisotradecraft.podbean.com/e/169-mfa-mishaps/)
 - [Pass the Passwords](https://cisotradecraft.podbean.com/e/ciso-tradecraft-pass-the-passwords/)
 - [Zero Trust](https://cisotradecraft.podbean.com/e/ciso-tradecraft-zero-trust/)
 
