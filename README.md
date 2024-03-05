@@ -145,7 +145,6 @@ Governance is about understanding what technology your organization uses so you 
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
 
-
 ## Identity & Access Management
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
 - [Authentication, Rainbow Tables, and Password Managers](https://cisotradecraft.podbean.com/e/143-authentication-rainbow-tables-and-password-managers/)
@@ -177,6 +176,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Easier, Better, Faster, & Cheaper Software](https://cisotradecraft.podbean.com/e/94-easier-better-faster-cheaper-software/)
 - [The Three Ways of DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-three-ways-of-devops/)
 - [Modern Software Development Practices](https://cisotradecraft.podbean.com/e/ciso-tradecraft-modern-software-development-practices/)
+- [Navigating Software Supply Chain Security (with Cassie Crossley)](https://cisotradecraft.podbean.com/e/171-navigating-software-supply-chain-security-with-cassie-crossley/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
 - [Working on the Supply Chain Gang](https://cisotradecraft.podbean.com/e/ciso-tradecraft-working-on-the-supply-chain-gang/)
