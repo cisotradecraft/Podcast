@@ -188,6 +188,7 @@ Risk Management is about effectively identifying what the biggest risks to the c
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
 - [More Risky Business with FAIR](https://cisotradecraft.podbean.com/e/ciso-tradecraft-more-risky-business/)
 - [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
+- [Table Top Exercises](https://cisotradecraft.podbean.com/e/172-table-top-exercises/)
 - [Third Party Risk Management (with  Scott Fairbrother)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-third-party-risk-management/)
 
 ## Security Culture
