@@ -175,7 +175,9 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-devops/)
 - [Easier, Better, Faster, & Cheaper Software](https://cisotradecraft.podbean.com/e/94-easier-better-faster-cheaper-software/)
 - [The Three Ways of DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-three-ways-of-devops/)
+- [Mastering Vulnerability Management](https://cisotradecraft.podbean.com/e/173-mastering-vulnerability-management/)
 - [Modern Software Development Practices](https://cisotradecraft.podbean.com/e/ciso-tradecraft-modern-software-development-practices/)
+- [OWASP Top 10 Web Application Attacks](https://cisotradecraft.podbean.com/e/174-owasp-top-10-web-application-attacks/_
 - [Navigating Software Supply Chain Security (with Cassie Crossley)](https://cisotradecraft.podbean.com/e/171-navigating-software-supply-chain-security-with-cassie-crossley/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
