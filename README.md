@@ -168,7 +168,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Handling Regulatory Change](https://cisotradecraft.podbean.com/e/144-handling-regulatory-change/)
 - [Legal Questions (with Evan Wolff)](https://cisotradecraft.podbean.com/e/121-legal-questions-with-evan-wolff/)
 - [Living in a Materiality World](https://cisotradecraft.podbean.com/e/146-living-in-a-materiality-world/)
-- [Navigating NYDFS Cyber Regulations](https://cisotradecraft.podbean.com/e/175-navigating-nydfs-cyber-regulation/)
+- [Navigating NYDFS Cyber Regulation](https://cisotradecraft.podbean.com/e/175-navigating-nydfs-cyber-regulation/)
 
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
