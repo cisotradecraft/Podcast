@@ -219,8 +219,10 @@ Security Culture is about building an organization where the entire company beco
 - [Shall We Play A Game?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-shall-we-play-a-game/)
 - [Start Me Up (with Bob Cousins)](https://cisotradecraft.podbean.com/e/105-start-me-up-with-bob-cousins/)
 - [Tackling 3 Really Hard Problems in Cyber (with Andy Ellis)](https://cisotradecraft.podbean.com/e/88-tackling-3-really-hard-problems-in-cyber-with-andy-ellis/)
+- [The 7 Broken Pillars of Cybersecurity](https://cisotradecraft.podbean.com/e/179-the-7-broken-pillars-of-cybersecurity/)
 - [The 7 Lies in Cyber](https://cisotradecraft.podbean.com/e/164-the-7-lies-in-cyber/)
 - [The Business Case for a Global lead of Field Cybersecurity (with Joye Purser)](https://cisotradecraft.podbean.com/e/115-the-business-case-for-a-global-lead-of-field-cybersecurity/)
+- [There's Room For Everybody In Your Router (with Giorgio Perticone)](https://cisotradecraft.podbean.com/e/180-theres-room-for-everybody-in-your-router-with-giorgio-perticone/)
 - [Thought Provoking Discussions (with Richard Thieme)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-thought-provoking-discussions-with-richard-thieme/)
 - [Wonderful (with Winn Schwartau)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-wonderful-winn-schwartau/)
 
