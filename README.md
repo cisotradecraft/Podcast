@@ -107,6 +107,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [From Hunt Team to Hunter (with Bryce Kunz)](https://cisotradecraft.podbean.com/e/87-from-hunt-team-to-hunter-with-bryce-kunz/)
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
 - [How to Stop Bad Guys from Staying on Your Network (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/127-how-to-stop-bad-guys-from-staying-on-your-network-with-kevin-fiscus/)
+- [Inside the 2024 Verizon Data Breach Investigations Report](https://cisotradecraft.podbean.com/e/181-inside-the-2024-verizon-data-breach-investigations-report/)
 - [Insider Threat Operations (with Jim Lawler)](https://cisotradecraft.podbean.com/e/139-insider-threat-operations-with-jim-lawler/)
 - [Modernizing our SOC Ingest (with JP Bourget)](https://cisotradecraft.podbean.com/e/165-modernizing-our-soc-ingest-with-jp-bourget/)
 - [Ransomware Response (with Ricoh Danielson)](https://cisotradecraft.podbean.com/e/134-ransomware-response-with-ricoh-danielson/)
