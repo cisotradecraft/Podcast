@@ -130,6 +130,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Introduction to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
 - [Mobile Application Security (with Brian Reed)](https://cisotradecraft.podbean.com/e/97-mobile-application-security-with-brian-reed/)
+- [Navigating the Cloud Security Landscape (with Chris Rothe)](https://cisotradecraft.podbean.com/e/183-navigating-the-cloud-security-landscape-with-chris-rothe/)
 - [SaaS Security Posture Management (with Ben Johnson)](https://cisotradecraft.podbean.com/e/101-saas-security-posture-management-with-ben-johnson/)
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
 
@@ -142,6 +143,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [Cyber Defense Matrix Reloaded (with Sounil Yu)](https://cisotradecraft.podbean.com/e/83-cyber-matrix-reloaded-with-sounil-yu/)
 - [Cyber Acronymns You Should Know / The Cyber UPDATE](https://cisotradecraft.podbean.com/e/166-cyber-acronyms-you-should-know/)
+- [Ethics and Artificial Intelligence (AI)](https://cisotradecraft.podbean.com/e/185-ethics-and-artificial-intelligence-ai/)
 - [Good Governance (with Sameer Sait)](https://cisotradecraft.podbean.com/e/117-good-governance-with-sameer-sait/)
 - [Measuring Results](https://cisotradecraft.podbean.com/e/150-measuring-results/)
 - [Methodologies for Analysis (with Christopher Crowley)](https://cisotradecraft.podbean.com/e/122-methodologies-for-analysis-with-christopher-crowley/)
@@ -178,6 +180,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
 - [A CISO's Guide to Pentesting](https://cisotradecraft.podbean.com/e/90-a-ciso-s-guide-to-pentesting/)
+- [Complexity is Killing Us](https://cisotradecraft.podbean.com/e/184-complexity-is-killing-us/)
 - [DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-devops/)
 - [Easier, Better, Faster, & Cheaper Software](https://cisotradecraft.podbean.com/e/94-easier-better-faster-cheaper-software/)
 - [The Three Ways of DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-three-ways-of-devops/)
