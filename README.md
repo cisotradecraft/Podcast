@@ -119,6 +119,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 
 ## Enabling Technologies
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
+- [AI Coaching (with Tom Bendien)](https://cisotradecraft.podbean.com/e/186-ai-coaching-with-tom-bendien/)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
 - [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
