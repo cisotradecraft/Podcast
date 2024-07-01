@@ -49,6 +49,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Crisis Leadership (with G Mark Hardy's 9/11 Experience)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crisis-leadership-with-g-mark-hardy-s-911-experience/)
 - [Crucial Conversations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crucial-conversations/)
 - [Effective Meetings](https://cisotradecraft.podbean.com/e/ciso-tradecraft-effective-meetings/)
+- [Ensuring Profitable Growth](https://cisotradecraft.podbean.com/e/187-ensuring-profitable-growth/)
 - [Executive Competencies](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-competencies/)
 - [Executive Presence](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-presence/)
 - [Framing Executive Discussions](https://cisotradecraft.podbean.com/e/131-framing-executive-discussions/)
