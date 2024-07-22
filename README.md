@@ -49,6 +49,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Crisis Leadership (with G Mark Hardy's 9/11 Experience)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crisis-leadership-with-g-mark-hardy-s-911-experience/)
 - [Crucial Conversations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-crucial-conversations/)
 - [Effective Meetings](https://cisotradecraft.podbean.com/e/ciso-tradecraft-effective-meetings/)
+- [Emotional Intelligence](https://cisotradecraft.podbean.com/e/189-emotional-intelligence/)
 - [Ensuring Profitable Growth](https://cisotradecraft.podbean.com/e/187-ensuring-profitable-growth/)
 - [Executive Competencies](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-competencies/)
 - [Executive Presence](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-presence/)
@@ -90,6 +91,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [Outrunning the Bear](https://cisotradecraft.podbean.com/e/98-outrunning-the-bear/)
 - [SAST Security (with John Steven)](https://cisotradecraft.podbean.com/e/113-sast-security-with-john-steven/)
 - [Say Firewall One More Time](https://cisotradecraft.podbean.com/e/ciso-tradecraft-say-firewall-one-more-time/)
+- [Securing Small Businesses](https://cisotradecraft.podbean.com/e/188-securing-small-businesses/)
 - [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
 - [The Fab 5 Security Outcomes Study (with Helen Patton)](https://cisotradecraft.podbean.com/e/85-the-fab-5-security-outcomes-with-helen-patton/)
 
@@ -176,6 +178,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
 - [Handling Regulatory Change](https://cisotradecraft.podbean.com/e/144-handling-regulatory-change/)
 - [Legal Questions (with Evan Wolff)](https://cisotradecraft.podbean.com/e/121-legal-questions-with-evan-wolff/)
+- [Lawyers, Breaches, and CISOs: Oh My (with Thomas Ritter)](https://cisotradecraft.podbean.com/e/190-lawyers-breaches-and-cisos-oh-my-with-thomas-ritter/)
 - [Living in a Materiality World](https://cisotradecraft.podbean.com/e/146-living-in-a-materiality-world/)
 - [Navigating NYDFS Cyber Regulation](https://cisotradecraft.podbean.com/e/175-navigating-nydfs-cyber-regulation/)
 
