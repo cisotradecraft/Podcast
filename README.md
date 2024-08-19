@@ -164,6 +164,7 @@ Identity & Access Management is about limiting the scope of an attacker who coul
 - [Knock Knock, Who's There and Whatcha Want?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-knock-knock-who-s-there-and-whatcha-want/)
 - [MFA Mishaps](https://cisotradecraft.podbean.com/e/169-mfa-mishaps/)
 - [Pass the Passwords](https://cisotradecraft.podbean.com/e/ciso-tradecraft-pass-the-passwords/)
+- [The IAM Masterclass](https://cisotradecraft.podbean.com/e/194-the-iam-masterclass/)
 - [Zero Trust](https://cisotradecraft.podbean.com/e/ciso-tradecraft-zero-trust/)
 
 ## Laws, Regulations, & Oversight
