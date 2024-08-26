@@ -62,7 +62,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Presentation Skills](https://cisotradecraft.podbean.com/e/ciso-tradecraft-presentation-skills/)
 - [Principles of Persuasion](https://cisotradecraft.podbean.com/e/ciso-tradecraft-principles-of-persuasion/)
 - [Promotion through Politics](https://cisotradecraft.podbean.com/e/ciso-tradecraft-promotion-through-politics/)
-- [Reality-Based Leadership](https://cisotradecraft.podbean.com/e/176-reality-based-leadership-with-alex-dorr/)
+- [Reality-Based Leadership (with Alex Dorr)](https://cisotradecraft.podbean.com/e/176-reality-based-leadership-with-alex-dorr/)
 - [Responsibility, Accountability, and Authority](https://cisotradecraft.podbean.com/e/170-responsibility-accountability-and-authority/)
 - [Show Me The Money (with Nick Vigier)](https://cisotradecraft.podbean.com/e/108-budgeting-for-cisos-with-nick-vigier/)
 - [Speak My Language (with Andrew Chrostowski)](https://cisotradecraft.podbean.com/e/152-speak-my-language-with-andrew-chrostowski/)
