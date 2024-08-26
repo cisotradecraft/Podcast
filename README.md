@@ -195,6 +195,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Modern Software Development Practices](https://cisotradecraft.podbean.com/e/ciso-tradecraft-modern-software-development-practices/)
 - [OWASP Top 10 Web Application Attacks](https://cisotradecraft.podbean.com/e/174-owasp-top-10-web-application-attacks/)
 - [Navigating Software Supply Chain Security (with Cassie Crossley)](https://cisotradecraft.podbean.com/e/171-navigating-software-supply-chain-security-with-cassie-crossley/)
+- [Pentesting for Readiness Not Compliance (with Snehal Antani)](https://cisotradecraft.podbean.com/e/195-pentesting-for-readiness-not-compliance-with-snehal-antani/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
 - [Working on the Supply Chain Gang](https://cisotradecraft.podbean.com/e/ciso-tradecraft-working-on-the-supply-chain-gang/)
