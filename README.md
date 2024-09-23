@@ -131,6 +131,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [CISO Predictions for 2024](https://cisotradecraft.podbean.com/e/162-ciso-predictions-for-2024/)
 - [Cloud Drift (with Yoni Leitersdorf)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cloud-drift-with-yoni-leitersdorf/)
 - [How to Compare Software](https://cisotradecraft.podbean.com/e/ciso-tradecraft-how-to-compare-software/)
+- [How to Secure Generative AI](https://cisotradecraft.podbean.com/e/199-how-to-secure-generative-ai/)
 - [Introduction to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
 - [Mobile Application Security (with Brian Reed)](https://cisotradecraft.podbean.com/e/97-mobile-application-security-with-brian-reed/)
