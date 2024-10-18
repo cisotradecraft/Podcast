@@ -124,6 +124,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
 - [AI Coaching (with Tom Bendien)](https://cisotradecraft.podbean.com/e/186-ai-coaching-with-tom-bendien/)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
+- [Avoiding Hurricanes in the Cloud](https://cisotradecraft.podbean.com/e/201-avoiding-hurricanes-in-the-cloud/)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
 - [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
 - [ChatGPT & Generative AI (with Konstantinos Sgantzos)](https://cisotradecraft.podbean.com/e/126-chatgpt-generative-ai-with-konstantinos-sgantzos/)
@@ -223,6 +224,7 @@ Security Culture is about building an organization where the entire company beco
 - [Countering Corporate Espionage](https://cisotradecraft.podbean.com/e/ciso-tradecraft-countering-corporate-espionage/)
 - [Cyber Thrills and Auther Quills with (Deb Radcliff)](https://cisotradecraft.podbean.com/e/196-cyber-thrills-and-author-quills-with-deb-radcliff/)
 - [Cybersecurity Apprenticeships (with Craig Barber)](https://cisotradecraft.podbean.com/e/167-cybersecurity-apprenticeships-with-craig-barber/)
+- [Cybersecurity Crisis: Are We Failing the Next Generation?](https://cisotradecraft.podbean.com/e/202-cybersecurity-crisis-are-we-failing-the-next-generation/)
 - [From Cyber Burnout to VCISO Bliss (with Olivia Rose)](https://cisotradecraft.podbean.com/e/192-from-cyber-burnout-to-vciso-bliss-with-olivia-rose/)
 - [Game-Based Learning (with Andy Serwin & Eric Basu)](https://cisotradecraft.podbean.com/e/153-game-based-learning-with-andy-serwin-eric-basu/)
 - [Hacker Summer Camp](https://cisotradecraft.podbean.com/e/91-hacker-summer-camp/)
