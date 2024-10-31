@@ -155,6 +155,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Measuring Results](https://cisotradecraft.podbean.com/e/150-measuring-results/)
 - [Methodologies for Analysis (with Christopher Crowley)](https://cisotradecraft.podbean.com/e/122-methodologies-for-analysis-with-christopher-crowley/)
 - [IT Governance](https://cisotradecraft.podbean.com/e/ciso-tradecraft-it-governance/)
+- [Shadows and Zombies in the Data Center](https://cisotradecraft.podbean.com/e/204-shadows-and-zombies-in-the-data-center/)
 - [Simple, Easy, & Cheap Cybersecurity Measures (with Brent Deterding)](https://cisotradecraft.podbean.com/e/124-simple-easy-cheap-cybersecurity-measures-with-brent-deterding/)
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
