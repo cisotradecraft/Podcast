@@ -71,6 +71,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [The Great Resignation](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-great-resignationn/)
 - [The Right Stuff](https://cisotradecraft.podbean.com/e/109-the-right-stuff/)
 - [Welcome to the C-Level (with Nate Warfield)](https://cisotradecraft.podbean.com/e/welcome-to-the-c-level-with-nate-warfield-of-prevailion/)
+- [Wisdom from the 1st Cyber Colonel (JC Vega)](https://cisotradecraft.podbean.com/e/205-wisdom-from-the-1st-cyber-colonel/)
 
 ## Defensive Technologies
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
