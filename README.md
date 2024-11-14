@@ -232,6 +232,7 @@ Security Culture is about building an organization where the entire company beco
 - [Game-Based Learning (with Andy Serwin & Eric Basu)](https://cisotradecraft.podbean.com/e/153-game-based-learning-with-andy-serwin-eric-basu/)
 - [Hacker Summer Camp](https://cisotradecraft.podbean.com/e/91-hacker-summer-camp/)
 - [How to Become a Cyber Security Expert](https://cisotradecraft.podbean.com/e/93-how-to-become-a-cyber-security-expert/)
+- [Ira Winkler CruiseCon Founder](https://cisotradecraft.podbean.com/e/206-ira-winkler-cruisecon-founder/)
 - [Listening to the Wise (with Bill Cheswick)](https://cisotradecraft.podbean.com/e/103-listening-to-the-wise-with-bill-cheswick/)
 - [Metrics that Matter](https://cisotradecraft.podbean.com/e/ciso-tradecraft-metrics-that-matter/)
 - [Mentorship, Sponsorship, and A Message to Garcia](https://cisotradecraft.podbean.com/e/102-mentorship-sponsorship-and-a-message-to-garcia/)
