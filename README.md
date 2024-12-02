@@ -113,8 +113,8 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
 - [How to Stop Bad Guys from Staying on Your Network (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/127-how-to-stop-bad-guys-from-staying-on-your-network-with-kevin-fiscus/)
 - [Inside the 2024 Verizon Data Breach Investigations Report](https://cisotradecraft.podbean.com/e/181-inside-the-2024-verizon-data-breach-investigations-report/)
-- [Insider Threat Operations (with Jim Lawler)](https://cisotradecraft.podbean.com/e/139-insider-threat-operations-with-jim-lawler/)
 - [Insider Threat (with Shawnee Delaney)](https://cisotradecraft.podbean.com/e/208-insider-threat-with-shawnee-delaney/)
+- [Insider Threat Operations (with Jim Lawler)](https://cisotradecraft.podbean.com/e/139-insider-threat-operations-with-jim-lawler/)
 - [Modernizing our SOC Ingest (with JP Bourget)](https://cisotradecraft.podbean.com/e/165-modernizing-our-soc-ingest-with-jp-bourget/)
 - [Ransomware Response (with Ricoh Danielson)](https://cisotradecraft.podbean.com/e/134-ransomware-response-with-ricoh-danielson/)
 - [Shaping the SOC of Tomorrow (with Debbie Gordon)](https://cisotradecraft.podbean.com/e/182-shaping-the-soc-of-tomorrow-with-debbie-gordon/)
@@ -220,6 +220,7 @@ Risk Management is about effectively identifying what the biggest risks to the c
 
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
+- [AI Singularity (with Richard Thieme)](https://cisotradecraft.podbean.com/e/209-ai-singularity-with-richard-thieme/)
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
 - [Avoiding Death by PowerPoint](https://cisotradecraft.podbean.com/e/ciso-tradecraft-avoiding-death-by-powerpoint/)
 - [Breaking Backbones (with Deb Radcliff)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-breaking-backbones-with-deb-radcliff/)
