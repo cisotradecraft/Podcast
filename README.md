@@ -254,6 +254,7 @@ Security Culture is about building an organization where the entire company beco
 
 ## Other Topics
 Helpful Topics to improve the quality of life for Cyber Executives
+- [CISO Burnout (with Raghav Singh)](https://cisotradecraft.podbean.com/e/207-ciso-burnout-with-raghav-singh/)
 - [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
 - [From Hacking to Hardcover (with Bill Pollock)](https://cisotradecraft.podbean.com/e/136-from-hacking-to-hardcover-with-bill-pollock/)
 - [Founding to Funding (with Cyndi and Ron Gula)](https://cisotradecraft.podbean.com/e/132-founding-to-funding-with-cyndi-and-ron-gula/)
