@@ -108,6 +108,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Cyber Ranges (with Debbie Gordon)](https://cisotradecraft.podbean.com/e/125-cyber-ranges-with-debbie-gordon/)
 - [Cyber Threat Intelligence (with Jeff Majka & Andrew Dutton)](https://cisotradecraft.podbean.com/e/178-cyber-threat-intelligence-with-jeff-majka-andrew-dutton/)
 - [Data Engineering (with Gal Shpantzer)](https://cisotradecraft.podbean.com/e/118-data-engineering-with-gal-shpantzer/)
+- [Deceive to Detect (with Yuriy Gatupov)](https://cisotradecraft.podbean.com/e/214-deceive-to-detect-with-yuriy-gatupov/)
 - [Everything you wanted to know about Ransomware](https://cisotradecraft.podbean.com/e/ciso-tradecraft-everything-you-wanted-to-know-about-ransomware/)
 - [Flirting with Disaster (BCPs, DRPs, and BIA)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-flirting-with-disaster/)
 - [From Hunt Team to Hunter (with Bryce Kunz)](https://cisotradecraft.podbean.com/e/87-from-hunt-team-to-hunter-with-bryce-kunz/)
@@ -126,7 +127,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [SOC Skills Part 2 (with Hasan Eksi)](https://cisotradecraft.podbean.com/e/157-soc-skills-part-2-with-hasan-eksi/)
 
 ## Enabling Technologies
-Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
+Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer emerging technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
 - [AI Coaching (with Tom Bendien)](https://cisotradecraft.podbean.com/e/186-ai-coaching-with-tom-bendien/)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
 - [Avoiding Hurricanes in the Cloud](https://cisotradecraft.podbean.com/e/201-avoiding-hurricanes-in-the-cloud/)
@@ -135,6 +136,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [ChatGPT & Generative AI (with Konstantinos Sgantzos)](https://cisotradecraft.podbean.com/e/126-chatgpt-generative-ai-with-konstantinos-sgantzos/)
 - [CISO Predictions for 2023](https://cisotradecraft.podbean.com/e/110-predictions-for-2023/)
 - [CISO Predictions for 2024](https://cisotradecraft.podbean.com/e/162-ciso-predictions-for-2024/)
+- [CISO Predictions for 2025](https://cisotradecraft.podbean.com/e/215-ciso-predictions-for-2025/)
 - [Cloud Drift (with Yoni Leitersdorf)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cloud-drift-with-yoni-leitersdorf/)
 - [How to Compare Software](https://cisotradecraft.podbean.com/e/ciso-tradecraft-how-to-compare-software/)
 - [How to Secure Generative AI](https://cisotradecraft.podbean.com/e/199-how-to-secure-generative-ai/)
@@ -208,6 +210,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Navigating Software Supply Chain Security (with Cassie Crossley)](https://cisotradecraft.podbean.com/e/171-navigating-software-supply-chain-security-with-cassie-crossley/)
 - [Pentesting for Readiness Not Compliance (with Snehal Antani)](https://cisotradecraft.podbean.com/e/195-pentesting-for-readiness-not-compliance-with-snehal-antani/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
+- [The TTPs of a Security Champions Program (with Dustin Lehr)](https://cisotradecraft.podbean.com/e/216-the-ttps-of-a-security-champions-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
 - [Working on the Supply Chain Gang](https://cisotradecraft.podbean.com/e/ciso-tradecraft-working-on-the-supply-chain-gang/)
 
