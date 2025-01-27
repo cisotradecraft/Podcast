@@ -218,6 +218,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 Risk Management is about effectively identifying what the biggest risks to the company are, what's the likelihood and magnitude of an attack, and how much does it cost to remediate.  This is helpful for organizations who want more transparency.
 - [Cybersecuirty First Principles (with Rick Howard)](https://cisotradecraft.podbean.com/e/168-cybersecurity-first-principles-with-rick-howard/)
 - [Cyber War](https://cisotradecraft.podbean.com/e/151-cyber-war/)
+- [Includes No Dirt (with Bill Dougherty)](https://cisotradecraft.podbean.com/e/217-includes-no-dirt-with-bill-dougherty/)
 - [Risky Business](https://cisotradecraft.podbean.com/e/ciso-tradecraft-risky-business/)
 - [More Risky Business with FAIR](https://cisotradecraft.podbean.com/e/ciso-tradecraft-more-risky-business/)
 - [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
