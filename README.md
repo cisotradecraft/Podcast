@@ -145,6 +145,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [How to Secure Generative AI](https://cisotradecraft.podbean.com/e/199-how-to-secure-generative-ai/)
 - [Introduction to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
+- [Microsoft Majorana is Taking the Quantum Leap](https://cisotradecraft.podbean.com/e/221-microsofts-quantum-breakthrough-the-majorana-chip-explained/)
 - [Mobile Application Security (with Brian Reed)](https://cisotradecraft.podbean.com/e/97-mobile-application-security-with-brian-reed/)
 - [Navigating the Cloud Security Landscape (with Chris Rothe)](https://cisotradecraft.podbean.com/e/183-navigating-the-cloud-security-landscape-with-chris-rothe/)
 - [Repeatable, Attestable, and Defensible AI (with AWS's Former Deputy CISO Merritt Baer)](https://cisotradecraft.podbean.com/e/212-repeatable-attestable-and-defensible-ai-with-awss-former-deputy-ciso-merritt-baer/)
@@ -230,6 +231,7 @@ Risk Management is about effectively identifying what the biggest risks to the c
 
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
+- [40 Years of Career Advice in 40 Minutes](https://cisotradecraft.podbean.com/e/222-40-years-of-career-advice-in-40-minutes/)
 - [AI Singularity (with Richard Thieme)](https://cisotradecraft.podbean.com/e/209-ai-singularity-with-richard-thieme/)
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
 - [Avoiding Death by PowerPoint](https://cisotradecraft.podbean.com/e/ciso-tradecraft-avoiding-death-by-powerpoint/)
