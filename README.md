@@ -139,6 +139,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [CISO Predictions for 2024](https://cisotradecraft.podbean.com/e/162-ciso-predictions-for-2024/)
 - [CISO Predictions for 2025](https://cisotradecraft.podbean.com/e/215-ciso-predictions-for-2025/)
 - [Cloud Drift (with Yoni Leitersdorf)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cloud-drift-with-yoni-leitersdorf/)
+- [Executive Updates to AI](https://cisotradecraft.podbean.com/e/220-executive-updates-to-ai/)
 - [How AI Changes Talent Management (with Colleen Lennox)](https://cisotradecraft.podbean.com/e/218-how-ai-changes-talent-management-with-colleen-lennox/)
 - [How to Compare Software](https://cisotradecraft.podbean.com/e/ciso-tradecraft-how-to-compare-software/)
 - [How to Secure Generative AI](https://cisotradecraft.podbean.com/e/199-how-to-secure-generative-ai/)
