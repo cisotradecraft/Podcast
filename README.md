@@ -221,6 +221,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
 - [The TTPs of a Security Champions Program (with Dustin Lehr)](https://cisotradecraft.podbean.com/e/216-the-ttps-of-a-security-champions-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
+- [Understanding the Critical Role of CVEs and CVSS](https://cisotradecraft.podbean.com/e/229-understanding-the-critical-role-of-cves-and-cvss/)
 - [Vulnerability Management (with Chris Hughes)](https://cisotradecraft.podbean.com/e/226-vulnerability-management-with-chris-hughes/)
 - [Working on the Supply Chain Gang](https://cisotradecraft.podbean.com/e/ciso-tradecraft-working-on-the-supply-chain-gang/)
 
