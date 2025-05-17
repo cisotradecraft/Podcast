@@ -146,6 +146,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Executive Updates to AI](https://cisotradecraft.podbean.com/e/220-executive-updates-to-ai/)
 - [How AI Changes Talent Management (with Colleen Lennox)](https://cisotradecraft.podbean.com/e/218-how-ai-changes-talent-management-with-colleen-lennox/)
 - [How to Compare Software](https://cisotradecraft.podbean.com/e/ciso-tradecraft-how-to-compare-software/)
+- [How To Make Your AI Less Chatty (with Sounil Yu)](https://cisotradecraft.podbean.com/e/230-avoiding-microsoft-copilot-complications-with-sounil-yu/)
 - [How to Secure Generative AI](https://cisotradecraft.podbean.com/e/199-how-to-secure-generative-ai/)
 - [Introduction to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
