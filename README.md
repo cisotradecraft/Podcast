@@ -1,4 +1,4 @@
-# CISO Tradecraft® 
+a# CISO Tradecraft® 
 Want to learn about cyber security?<br><br>
 CISO Tradecraft® provides fun and engaging podcasts on the Top 10 Cybersecurity Topic Domains.  Whether you're a newbie or an expert, there's important tradecraft here for everyone to learn.  
 
@@ -220,6 +220,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Navigating Software Supply Chain Security (with Cassie Crossley)](https://cisotradecraft.podbean.com/e/171-navigating-software-supply-chain-security-with-cassie-crossley/)
 - [Pentesting for Readiness Not Compliance (with Snehal Antani)](https://cisotradecraft.podbean.com/e/195-pentesting-for-readiness-not-compliance-with-snehal-antani/)
 - [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
+- [Tackle Your Technical Debt](https://cisotradecraft.podbean.com/e/231-tackle-your-technical-debt/)
 - [The TTPs of a Security Champions Program (with Dustin Lehr)](https://cisotradecraft.podbean.com/e/216-the-ttps-of-a-security-champions-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
 - [Understanding the Critical Role of CVEs and CVSS](https://cisotradecraft.podbean.com/e/229-understanding-the-critical-role-of-cves-and-cvss/)
