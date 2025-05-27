@@ -152,6 +152,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
 - [Microsoft Majorana is Taking the Quantum Leap](https://cisotradecraft.podbean.com/e/221-microsofts-quantum-breakthrough-the-majorana-chip-explained/)
 - [Mobile Application Security (with Brian Reed)](https://cisotradecraft.podbean.com/e/97-mobile-application-security-with-brian-reed/)
+- [Model Context Protocol (MCP)](https://cisotradecraft.podbean.com/e/234-model-context-protocol-mcp/)
 - [Navigating the Cloud Security Landscape (with Chris Rothe)](https://cisotradecraft.podbean.com/e/183-navigating-the-cloud-security-landscape-with-chris-rothe/)
 - [Repeatable, Attestable, and Defensible AI (with AWS's Former Deputy CISO Merritt Baer)](https://cisotradecraft.podbean.com/e/212-repeatable-attestable-and-defensible-ai-with-awss-former-deputy-ciso-merritt-baer/)
 - [SaaS Security Posture Management (with Ben Johnson)](https://cisotradecraft.podbean.com/e/101-saas-security-posture-management-with-ben-johnson/)
