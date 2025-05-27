@@ -156,6 +156,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Repeatable, Attestable, and Defensible AI (with AWS's Former Deputy CISO Merritt Baer)](https://cisotradecraft.podbean.com/e/212-repeatable-attestable-and-defensible-ai-with-awss-former-deputy-ciso-merritt-baer/)
 - [SaaS Security Posture Management (with Ben Johnson)](https://cisotradecraft.podbean.com/e/101-saas-security-posture-management-with-ben-johnson/)
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
+- [Web 3.0 Explained (with Aaron Markell)](https://cisotradecraft.podbean.com/e/233-web-30-explained-with-aaron-markell/)
 
 ## Governance
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
