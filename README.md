@@ -57,6 +57,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Executive Presence](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-presence/)
 - [Framing Executive Discussions](https://cisotradecraft.podbean.com/e/131-framing-executive-discussions/)
 - [Gaining Trust (with Robin Dreeke)](https://cisotradecraft.podbean.com/e/84-gaining-trust-with-robin-dreeke/)
+- [Grey is the New Black (with Ryan Gooler)](https://cisotradecraft.podbean.com/e/235-grey-is-the-new-black-with-ryan-gooler/)
 - [How to Read Your Boss](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-the-way-you-persuade/)
 - [Leading with Style](https://cisotradecraft.podbean.com/e/111-leading-with-style/)
 - [New Kid in Town (with Rebecca Mossman)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-new-kid-in-town-with-rebecca-mossman/)
