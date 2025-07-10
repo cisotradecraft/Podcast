@@ -248,7 +248,7 @@ Risk Management is about effectively identifying what the biggest risks to the c
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
 - [40 Years of Career Advice in 40 Minutes](https://cisotradecraft.podbean.com/e/222-40-years-of-career-advice-in-40-minutes/)
-- [Actionable Gamification and Lasting Success (with Yu Kai Chou)](https://cisotradecraft.podbean.com/e/239-actionable-gamification-and-lasting-success-with-yu-kai-chou/)
+- [Actionable Gamification and Lasting Success (with Yu-Kai Chou)](https://cisotradecraft.podbean.com/e/239-actionable-gamification-and-lasting-success-with-yu-kai-chou/)
 - [AI Singularity (with Richard Thieme)](https://cisotradecraft.podbean.com/e/209-ai-singularity-with-richard-thieme/)
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
 - [Avoiding Death by PowerPoint](https://cisotradecraft.podbean.com/e/ciso-tradecraft-avoiding-death-by-powerpoint/)
