@@ -107,6 +107,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Brace for Incident (with Bryan Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-incident-with-bryan-murphy/)
 - [Breach and Attack Simulation (with Dave Klein)](https://cisotradecraft.podbean.com/e/104-breach-and-attack-simulation-with-dave-klein/)
 - [Building a Data Security Lake (with Noam Brosh)](https://cisotradecraft.podbean.com/e/158-building-a-data-security-lake-with-noam-brosh/)
+- [Build a World Class SOC (with Carson Zimmerman)](https://cisotradecraft.podbean.com/e/237-build-a-world-class-soc-with-carson-zimmerman/)
 - [Cyber Deception (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-deception-with-kevin-fiscus/)
 - [Cyber Ranges (with Debbie Gordon)](https://cisotradecraft.podbean.com/e/125-cyber-ranges-with-debbie-gordon/)
 - [Cyber Threat Intelligence (with Jeff Majka & Andrew Dutton)](https://cisotradecraft.podbean.com/e/178-cyber-threat-intelligence-with-jeff-majka-andrew-dutton/)
@@ -241,11 +242,13 @@ Risk Management is about effectively identifying what the biggest risks to the c
 - [More Risky Business with FAIR](https://cisotradecraft.podbean.com/e/ciso-tradecraft-more-risky-business/)
 - [Protecting your Crown Jewels (with Roselle Safran)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-protecting-your-crown-jewels-with-roselle-safran/)
 - [Table Top Exercises](https://cisotradecraft.podbean.com/e/172-table-top-exercises/)
+- [The Impact of the Israel Iran Conflict (with Nathan Case)](https://cisotradecraft.podbean.com/e/238-the-impact-of-the-israel-iran-conflict-with-nathan-case/)
 - [Third Party Risk Management (with  Scott Fairbrother)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-third-party-risk-management/)
 
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
 - [40 Years of Career Advice in 40 Minutes](https://cisotradecraft.podbean.com/e/222-40-years-of-career-advice-in-40-minutes/)
+- [Actionable Gamification and Lasting Success (with Yu Kai Chou)](https://cisotradecraft.podbean.com/e/239-actionable-gamification-and-lasting-success-with-yu-kai-chou/)
 - [AI Singularity (with Richard Thieme)](https://cisotradecraft.podbean.com/e/209-ai-singularity-with-richard-thieme/)
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
 - [Avoiding Death by PowerPoint](https://cisotradecraft.podbean.com/e/ciso-tradecraft-avoiding-death-by-powerpoint/)
@@ -256,6 +259,7 @@ Security Culture is about building an organization where the entire company beco
 - [Cyber Thrills and Auther Quills with (Deb Radcliff)](https://cisotradecraft.podbean.com/e/196-cyber-thrills-and-author-quills-with-deb-radcliff/)
 - [Cybersecurity Apprenticeships (with Craig Barber)](https://cisotradecraft.podbean.com/e/167-cybersecurity-apprenticeships-with-craig-barber/)
 - [Cybersecurity Crisis: Are We Failing the Next Generation?](https://cisotradecraft.podbean.com/e/202-cybersecurity-crisis-are-we-failing-the-next-generation/)
+- [From CruiseCon to AI Threats (with Ira Winkler)](https://cisotradecraft.podbean.com/e/240-from-cruisecon-to-ai-threats-with-ira-winkler/)
 - [From Cyber Burnout to VCISO Bliss (with Olivia Rose)](https://cisotradecraft.podbean.com/e/192-from-cyber-burnout-to-vciso-bliss-with-olivia-rose/)
 - [Game-Based Learning (with Andy Serwin & Eric Basu)](https://cisotradecraft.podbean.com/e/153-game-based-learning-with-andy-serwin-eric-basu/)
 - [Hacker Summer Camp](https://cisotradecraft.podbean.com/e/91-hacker-summer-camp/)
