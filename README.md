@@ -180,6 +180,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Simple, Easy, & Cheap Cybersecurity Measures (with Brent Deterding)](https://cisotradecraft.podbean.com/e/124-simple-easy-cheap-cybersecurity-measures-with-brent-deterding/)
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
+- [The OWASP Threat and Safeguard Matrix (with Ross Young)](https://cisotradecraft.podbean.com/e/241-the-owasp-threat-and-safeguard-matrix-with-ross-young/)
 - [The Full Irish](https://cisotradecraft.podbean.com/e/225-the-full-irish/)
 
 ## Identity & Access Management
