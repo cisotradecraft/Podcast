@@ -269,6 +269,7 @@ Security Culture is about building an organization where the entire company beco
 - [Listening to the Wise (with Bill Cheswick)](https://cisotradecraft.podbean.com/e/103-listening-to-the-wise-with-bill-cheswick/)
 - [Metrics that Matter](https://cisotradecraft.podbean.com/e/ciso-tradecraft-metrics-that-matter/)
 - [Mentorship, Sponsorship, and A Message to Garcia](https://cisotradecraft.podbean.com/e/102-mentorship-sponsorship-and-a-message-to-garcia/)
+- [Navigating Hacker Summer Camp 2025](https://cisotradecraft.podbean.com/e/243-navigating-hacker-summer-camp-in-2025/)
 - [Powerful Questions](https://cisotradecraft.podbean.com/e/142-powerful-questions/)
 - [Roses, Buds, & Thorns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-roses-buds-thorns/)
 - [Secure Developer Training Programs (with Scott Russo) Part 1](https://cisotradecraft.podbean.com/e/160-secure-developer-training-programs-with-scott-russo-part-1/)
