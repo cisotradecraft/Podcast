@@ -295,6 +295,7 @@ Helpful Topics to improve the quality of life for Cyber Executives
 - [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
 - [From Hacking to Hardcover (with Bill Pollock)](https://cisotradecraft.podbean.com/e/136-from-hacking-to-hardcover-with-bill-pollock/)
 - [Founding to Funding (with Cyndi and Ron Gula)](https://cisotradecraft.podbean.com/e/132-founding-to-funding-with-cyndi-and-ron-gula/)
+- [Mastering Cybersecurity Recruitment and Career Growth (with Casey Marquette)](https://cisotradecraft.podbean.com/e/245-mastering-cybersecurity-recruitment-and-career-growth-with-casey-marquette/)
 - [Protecting Your Family](https://cisotradecraft.podbean.com/e/129-protecting-your-most-valuable-asset/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
 - [The Secret to Career Success: Your Personal Board of Directors](https://cisotradecraft.podbean.com/e/242-the-secret-to-career-success-your-personal-board-of-directors/)
