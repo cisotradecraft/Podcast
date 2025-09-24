@@ -138,6 +138,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [A CISO Primer on Agentic AI](https://cisotradecraft.podbean.com/e/223-a-ciso-primer-on-agenticai/)
 - [AI Coaching (with Tom Bendien)](https://cisotradecraft.podbean.com/e/186-ai-coaching-with-tom-bendien/)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
+- [AI Just Changed Data Security Requirements with Ronan Murphy](https://www.youtube.com/watch?v=KH-i8-B9rko)
 - [Avoiding Hurricanes in the Cloud](https://cisotradecraft.podbean.com/e/201-avoiding-hurricanes-in-the-cloud/)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
 - [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
@@ -235,6 +236,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [The TTPs of a Security Champions Program (with Dustin Lehr)](https://cisotradecraft.podbean.com/e/216-the-ttps-of-a-security-champions-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
 - [Understanding the Critical Role of CVEs and CVSS](https://cisotradecraft.podbean.com/e/229-understanding-the-critical-role-of-cves-and-cvss/)
+- [Understanding Vulnerabilities, Exploits, and Cybersecurity (with Patrick Garrity and Tod Beardsley)](https://www.youtube.com/watch?v=j7XobHHri7o)
 - [Vulnerability Management (with Chris Hughes)](https://cisotradecraft.podbean.com/e/226-vulnerability-management-with-chris-hughes/)
 - [Working on the Supply Chain Gang](https://cisotradecraft.podbean.com/e/ciso-tradecraft-working-on-the-supply-chain-gang/)
 
