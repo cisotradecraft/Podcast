@@ -138,7 +138,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [A CISO Primer on Agentic AI](https://cisotradecraft.podbean.com/e/223-a-ciso-primer-on-agenticai/)
 - [AI Coaching (with Tom Bendien)](https://cisotradecraft.podbean.com/e/186-ai-coaching-with-tom-bendien/)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
-- [AI Just Changed Data Security Requirements with Ronan Murphy](https://www.youtube.com/watch?v=KH-i8-B9rko)
+- [AI Just Changed Data Security Requirements (with Ronan Murphy)](https://www.youtube.com/watch?v=KH-i8-B9rko)
 - [Avoiding Hurricanes in the Cloud](https://cisotradecraft.podbean.com/e/201-avoiding-hurricanes-in-the-cloud/)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
 - [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
