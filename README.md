@@ -265,7 +265,7 @@ Security Culture is about building an organization where the entire company beco
 - [Countering Corporate Espionage](https://cisotradecraft.podbean.com/e/ciso-tradecraft-countering-corporate-espionage/)
 - [Cyber Thrills and Auther Quills with (Deb Radcliff)](https://cisotradecraft.podbean.com/e/196-cyber-thrills-and-author-quills-with-deb-radcliff/)
 - [Cybersecurity Apprenticeships (with Craig Barber)](https://cisotradecraft.podbean.com/e/167-cybersecurity-apprenticeships-with-craig-barber/)
-- [Cybersecurity Crisis: Are We Failing the Next Generation?]([https://cisotradecraft.podbean.com/e/202-cybersecurity-crisis-are-we-failing-the-next-generation/](https://youtu.be/3Ne0peI8G2E?si=jdVIbBHG6q8uDUFE))
+- [Cybersecurity Crisis: Are We Failing the Next Generation?](https://youtu.be/3Ne0peI8G2E?si=OG88P6apzR3WuOfM)
 - [From CruiseCon to AI Threats (with Ira Winkler)](https://youtu.be/p2qfTbEP14k?si=CEeKOpHQdER9s8jW)
 - [From Cyber Burnout to VCISO Bliss (with Olivia Rose)](https://cisotradecraft.podbean.com/e/192-from-cyber-burnout-to-vciso-bliss-with-olivia-rose/)
 - [Game-Based Learning (with Andy Serwin & Eric Basu)](https://cisotradecraft.podbean.com/e/153-game-based-learning-with-andy-serwin-eric-basu/)
