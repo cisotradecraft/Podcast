@@ -185,7 +185,7 @@ Governance is about understanding what technology your organization uses so you 
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
 - [The OWASP Threat and Safeguard Matrix (with Ross Young)](https://youtu.be/DueP1CrYJIE?si=-C-j7soiNCl8FZ3Q)
-- [The Full Irish](https://youtu.be/f2h-5LFRXmo?si=wZwhCVL34aUxM2Sx)
+- [The Full Irish](https://youtu.be/UJ2St_0s1io?si=aLp5eJQz3QIkqd7P)
 
 ## Identity & Access Management
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
