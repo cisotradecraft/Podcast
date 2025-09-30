@@ -75,7 +75,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [The Great Resignation](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-great-resignationn/)
 - [The Right Stuff](https://cisotradecraft.podbean.com/e/109-the-right-stuff/)
 - [Welcome to the C-Level (with Nate Warfield)](https://cisotradecraft.podbean.com/e/welcome-to-the-c-level-with-nate-warfield-of-prevailion/)
-- [Wisdom from the 1st Cyber Colonel (JC Vega)](https://cisotradecraft.podbean.com/e/205-wisdom-from-the-1st-cyber-colonel/)
+- [Wisdom from the 1st Cyber Colonel (JC Vega)](https://youtu.be/sj7YMPeJpSA?si=IF0asnyAJ1yHatvd)
 
 ## Defensive Technologies
 Defensive Technologies is about creating defense in depth in an organization to protect against a multitude of attacks.  Knowledge of these domains is key as it’s one of the most common things auditors assess in an organization since it’s required for things like PCI compliance.
@@ -104,7 +104,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 ## Detection and Response Capabilities
 Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.  This section also includes Offensive Security Concepts, Business Continuity, and Disaster Recovery Planning.
 - [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
-- [Be SOCcessful with the SOC-CMM](https://cisotradecraft.podbean.com/e/203-be-soccessful-with-the-soc-cmm/)
+- [Be SOCcessful with the SOC-CMM](https://youtu.be/zKXSuGxu-OI?si=rU01svhK5qGBSEpr)
 - [Brace for Incident (with Bryan Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-incident-with-bryan-murphy/)
 - [Breach and Attack Simulation (with Dave Klein)](https://cisotradecraft.podbean.com/e/104-breach-and-attack-simulation-with-dave-klein/)
 - [Building a Data Security Lake (with Noam Brosh)](https://cisotradecraft.podbean.com/e/158-building-a-data-security-lake-with-noam-brosh/)
@@ -121,7 +121,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [How to Stop Bad Guys from Staying on Your Network (with Kevin Fiscus)](https://cisotradecraft.podbean.com/e/127-how-to-stop-bad-guys-from-staying-on-your-network-with-kevin-fiscus/)
 - [Inside the 2024 Verizon Data Breach Investigations Report](https://cisotradecraft.podbean.com/e/181-inside-the-2024-verizon-data-breach-investigations-report/)
 - [Inside the 2025 Verizon Data Breach Investigations Report](https://youtu.be/SAjFwNMzZJg?si=kOg0OHmOMGmPP81B)
-- [Insider Threat (with Shawnee Delaney)](https://cisotradecraft.podbean.com/e/208-insider-threat-with-shawnee-delaney/)
+- [Insider Threat (with Shawnee Delaney)](https://youtu.be/EKCe94hqAes?si=EdMUDV6k7t2aGiZb)
 - [Insider Threat Operations (with Jim Lawler)](https://cisotradecraft.podbean.com/e/139-insider-threat-operations-with-jim-lawler/)
 - [Modernizing our SOC Ingest (with JP Bourget)](https://cisotradecraft.podbean.com/e/165-modernizing-our-soc-ingest-with-jp-bourget/)
 - [Ransomware Response (with Ricoh Danielson)](https://cisotradecraft.podbean.com/e/134-ransomware-response-with-ricoh-danielson/)
@@ -139,7 +139,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [AI Coaching (with Tom Bendien)](https://cisotradecraft.podbean.com/e/186-ai-coaching-with-tom-bendien/)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
 - [AI Just Changed Data Security Requirements (with Ronan Murphy)](https://www.youtube.com/watch?v=KH-i8-B9rko)
-- [Avoiding Hurricanes in the Cloud](https://cisotradecraft.podbean.com/e/201-avoiding-hurricanes-in-the-cloud/)
+- [Avoiding Hurricanes in the Cloud](https://youtu.be/E9lczxRswkk?si=OcCV1WxgC5kBL6Wp)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
 - [Border Gateway Protocol (BGP)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-border-gateway-protocol-bgp/)
 - [ChatGPT & Generative AI (with Konstantinos Sgantzos)](https://cisotradecraft.podbean.com/e/126-chatgpt-generative-ai-with-konstantinos-sgantzos/)
@@ -180,7 +180,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Measuring Results](https://cisotradecraft.podbean.com/e/150-measuring-results/)
 - [Methodologies for Analysis (with Christopher Crowley)](https://cisotradecraft.podbean.com/e/122-methodologies-for-analysis-with-christopher-crowley/)
 - [IT Governance](https://cisotradecraft.podbean.com/e/ciso-tradecraft-it-governance/)
-- [Shadows and Zombies in the Data Center](https://cisotradecraft.podbean.com/e/204-shadows-and-zombies-in-the-data-center/)
+- [Shadows and Zombies in the Data Center](https://youtu.be/x7tWhE8_xjk?si=NyxzWBfDa6iXw-Xl)
 - [Simple, Easy, & Cheap Cybersecurity Measures (with Brent Deterding)](https://cisotradecraft.podbean.com/e/124-simple-easy-cheap-cybersecurity-measures-with-brent-deterding/)
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
@@ -202,7 +202,7 @@ Identity & Access Management is about limiting the scope of an attacker who coul
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
 - [Brace for Audit (with Brian Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-audit/)
 - [Build a World Class GRC Program (with Matt Hillary)](https://youtu.be/38SaMlNZEd4?si=69dbL9yuM5BIb-O4)
-- [Copywriting AI (with Mark Rasch)](https://cisotradecraft.podbean.com/e/200-copywriting-ai-with-mark-rasch/)
+- [Copywriting AI (with Mark Rasch)](https://youtu.be/UnH8EfXQaoQ?si=pj9HQoq8GTxpq4c4)
 - [Cyber Law Musings (with Mark Rasch)](https://cisotradecraft.podbean.com/e/cyberlaw-musings-with-mark-rasch/)
 - [Cyber Security Laws and Regulations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
 - [Cyberwar and the Law of Armed Conflict (with Lary Dietz)](https://cisotradecraft.podbean.com/e/99-cyberwar-and-the-law-of-armed-conflict-with-larry-dietz/)
@@ -256,7 +256,7 @@ Risk Management is about effectively identifying what the biggest risks to the c
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
 - [40 Years of Career Advice in 40 Minutes](https://youtu.be/XcPmOcLE8RM?si=Rzq7AISiu51UENED)
 - [Actionable Gamification and Lasting Success (with Yu-Kai Chou)](https://youtu.be/kySOeBFPtXw?si=JQ7jhwTdW-TV-YhI)
-- [AI Singularity (with Richard Thieme)](https://cisotradecraft.podbean.com/e/209-ai-singularity-with-richard-thieme/)
+- [AI Singularity (with Richard Thieme)](https://youtu.be/o5Gx2SUd5v4?si=AE05X6FHv5oNHIcE)
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
 - [Avoiding Death by PowerPoint](https://cisotradecraft.podbean.com/e/ciso-tradecraft-avoiding-death-by-powerpoint/)
 - [Breaking Backbones (with Deb Radcliff)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-breaking-backbones-with-deb-radcliff/)
@@ -265,14 +265,14 @@ Security Culture is about building an organization where the entire company beco
 - [Countering Corporate Espionage](https://cisotradecraft.podbean.com/e/ciso-tradecraft-countering-corporate-espionage/)
 - [Cyber Thrills and Auther Quills with (Deb Radcliff)](https://cisotradecraft.podbean.com/e/196-cyber-thrills-and-author-quills-with-deb-radcliff/)
 - [Cybersecurity Apprenticeships (with Craig Barber)](https://cisotradecraft.podbean.com/e/167-cybersecurity-apprenticeships-with-craig-barber/)
-- [Cybersecurity Crisis: Are We Failing the Next Generation?](https://cisotradecraft.podbean.com/e/202-cybersecurity-crisis-are-we-failing-the-next-generation/)
+- [Cybersecurity Crisis: Are We Failing the Next Generation?]([https://cisotradecraft.podbean.com/e/202-cybersecurity-crisis-are-we-failing-the-next-generation/](https://youtu.be/3Ne0peI8G2E?si=jdVIbBHG6q8uDUFE))
 - [From CruiseCon to AI Threats (with Ira Winkler)](https://youtu.be/p2qfTbEP14k?si=CEeKOpHQdER9s8jW)
 - [From Cyber Burnout to VCISO Bliss (with Olivia Rose)](https://cisotradecraft.podbean.com/e/192-from-cyber-burnout-to-vciso-bliss-with-olivia-rose/)
 - [Game-Based Learning (with Andy Serwin & Eric Basu)](https://cisotradecraft.podbean.com/e/153-game-based-learning-with-andy-serwin-eric-basu/)
 - [Hacker Summer Camp](https://cisotradecraft.podbean.com/e/91-hacker-summer-camp/)
 - [How to Become a Cyber Security Expert](https://cisotradecraft.podbean.com/e/93-how-to-become-a-cyber-security-expert/)
 - [How to Build a Successful Cybersecurity Startup (with Ross Haleliuk)](https://youtu.be/-H5xXHmwI7A?si=xrLe-DUrrjwXECKa)
-- [Ira Winkler CruiseCon Founder](https://cisotradecraft.podbean.com/e/206-ira-winkler-cruisecon-founder/)
+- [Ira Winkler CruiseCon Founder](https://youtu.be/ebEhWKLJ7ss?si=spCvmsZXxmZDTqGE)
 - [Listening to the Wise (with Bill Cheswick)](https://cisotradecraft.podbean.com/e/103-listening-to-the-wise-with-bill-cheswick/)
 - [Metrics that Matter](https://cisotradecraft.podbean.com/e/ciso-tradecraft-metrics-that-matter/)
 - [Mentorship, Sponsorship, and A Message to Garcia](https://cisotradecraft.podbean.com/e/102-mentorship-sponsorship-and-a-message-to-garcia/)
@@ -296,7 +296,7 @@ Security Culture is about building an organization where the entire company beco
 ## Other Topics
 Helpful Topics to improve the quality of life for Cyber Executives
 - [Breaking into Cybersecurity (with Christophe Foulon)](https://youtu.be/9CNQxhDugEs?si=5IJZyqOoyRL6jDgY)
-- [CISO Burnout (with Raghav Singh)](https://cisotradecraft.podbean.com/e/207-ciso-burnout-with-raghav-singh/)
+- [CISO Burnout (with Raghav Singh)](https://youtu.be/mDU8HaJvaoU?si=Ti--yK0SgPlwEKMb)
 - [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
 - [From Hacking to Hardcover (with Bill Pollock)](https://cisotradecraft.podbean.com/e/136-from-hacking-to-hardcover-with-bill-pollock/)
 - [Founding to Funding (with Cyndi and Ron Gula)](https://cisotradecraft.podbean.com/e/132-founding-to-funding-with-cyndi-and-ron-gula/)
