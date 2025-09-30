@@ -170,7 +170,7 @@ Governance is about understanding what technology your organization uses so you 
 - [A European View of CISO Responsibilities (with Michael Krausz)](https://cisotradecraft.podbean.com/e/116-a-european-view-of-ciso-responsibilities-with-michael-krausz/)
 - [Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
 - [Board Perspectives](https://cisotradecraft.podbean.com/e/149-board-perspectives/)
-- [CIS CSAT (with Scot Gicking)](https://youtu.be/XqvPaCz1ivE?si=KBkIAj2RMpMrccC8)
+- [CIS CSAT (with Scot Gicking)](https://youtu.be/7Qws__JAKq4?si=4QOsSdT4zidg9ahH)
 - [Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
 - [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [Cyber Defense Matrix Reloaded (with Sounil Yu)](https://cisotradecraft.podbean.com/e/83-cyber-matrix-reloaded-with-sounil-yu/)
