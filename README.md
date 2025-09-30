@@ -161,7 +161,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Repeatable, Attestable, and Defensible AI (with AWS's Former Deputy CISO Merritt Baer)](https://cisotradecraft.podbean.com/e/212-repeatable-attestable-and-defensible-ai-with-awss-former-deputy-ciso-merritt-baer/)
 - [SaaS Security Posture Management (with Ben Johnson)](https://cisotradecraft.podbean.com/e/101-saas-security-posture-management-with-ben-johnson/)
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
-- [Unveiling AI and Crypto Threats with Microsoft's Tomas Roccia](https://cisotradecraft.podbean.com/e/249-unveiling-ai-and-crypto-threats-with-microsofts-tomas-roccia/)
+- [Unveiling AI and Crypto Threats with Microsoft's Tomas Roccia]([https://cisotradecraft.podbean.com/e/249-unveiling-ai-and-crypto-threats-with-microsofts-tomas-roccia/](https://www.youtube.com/watch?v=0XQtaE48RzI&list=PLHV023f5qOBPVQEr7SbpgWUvchaw4rxPQ&index=4&pp=iAQB0gcJCfYJAYcqIYzv))
 - [Web 3.0 Explained (with Aaron Markell)](https://cisotradecraft.podbean.com/e/233-web-30-explained-with-aaron-markell/)
 - [What most leaders don't understand about AI (with Dave Lewis)](https://cisotradecraft.podbean.com/e/247-what-most-leaders-dont-understand-about-ai-with-dave-lewis/)
 
