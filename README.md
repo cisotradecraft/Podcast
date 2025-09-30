@@ -45,7 +45,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 ## Business Management & Leadership
 Business Management & Leadership is an essential skill for executives to lead and influence others.  These soft skills are critical to organizations where politics requires effective leaders to implement change via large collaboration efforts.  
 - [1% Better Leadership (with Andy Ellis)](https://cisotradecraft.podbean.com/e/137-1-better-leadership-with-andy-ellis/)
-- [A Black Hat Chat with ThreatLocker CEO Danny Jenkins](https://cisotradecraft.podbean.com/e/248-a-black-hat-chat-with-threatlocker-ceo-danny-jenkins/)
+- [A Black Hat Chat with ThreatLocker CEO Danny Jenkins](https://youtu.be/PAonCZdDeHw?si=LGTAYFCm9K5hQFBg)
 - [Accepted Cyber Security Strategy (with Branden Newman)](https://cisotradecraft.podbean.com/e/123-accepted-cyber-strategy-with-branden-newman/)
 - [Addressing the Top CEO Concerns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-addressing-the-top-ceo-concerns/)
 - [Connecting the Dots (with Sean Heritage)](https://cisotradecraft.podbean.com/e/89-connecting-the-dots-with-sean-heritage/)
@@ -163,7 +163,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [Securing the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-securing-the-cloud/)
 - [Unveiling AI and Crypto Threats with Microsoft's Tomas Roccia](https://youtu.be/0XQtaE48RzI?si=EUydafN0HQhsm13I)
 - [Web 3.0 Explained (with Aaron Markell)](https://cisotradecraft.podbean.com/e/233-web-30-explained-with-aaron-markell/)
-- [What most leaders don't understand about AI (with Dave Lewis)](https://cisotradecraft.podbean.com/e/247-what-most-leaders-dont-understand-about-ai-with-dave-lewis/)
+- [What most leaders don't understand about AI (with Dave Lewis)](https://youtu.be/6K-Da-tjNAs?si=eFE8IEqrDd-cstT-)
 
 ## Governance
 Governance is about understanding what technology your organization uses so you can effectively manage it through a process.  This can be particularly helpful when you need a CISO who can optimize how your resources are spent.
@@ -184,7 +184,7 @@ Governance is about understanding what technology your organization uses so you 
 - [Simple, Easy, & Cheap Cybersecurity Measures (with Brent Deterding)](https://cisotradecraft.podbean.com/e/124-simple-easy-cheap-cybersecurity-measures-with-brent-deterding/)
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
-- [The OWASP Threat and Safeguard Matrix (with Ross Young)](https://cisotradecraft.podbean.com/e/241-the-owasp-threat-and-safeguard-matrix-with-ross-young/)
+- [The OWASP Threat and Safeguard Matrix (with Ross Young)](https://youtu.be/DueP1CrYJIE?si=-C-j7soiNCl8FZ3Q)
 - [The Full Irish](https://cisotradecraft.podbean.com/e/225-the-full-irish/)
 
 ## Identity & Access Management
@@ -217,7 +217,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Lawyers, Breaches, and CISOs: Oh My (with Thomas Ritter)](https://cisotradecraft.podbean.com/e/190-lawyers-breaches-and-cisos-oh-my-with-thomas-ritter/)
 - [Living in a Materiality World](https://cisotradecraft.podbean.com/e/146-living-in-a-materiality-world/)
 - [Navigating NYDFS Cyber Regulation](https://cisotradecraft.podbean.com/e/175-navigating-nydfs-cyber-regulation/)
-- [Tim Brown on SolarWinds: What Every CISO Should Know](https://cisotradecraft.podbean.com/e/246-tim-brown-on-solarwinds-what-every-ciso-should-know/)
+- [Tim Brown on SolarWinds: What Every CISO Should Know](https://youtu.be/3hiA2Q3hXbE?si=_9W6_dyzzlvkgea1)
 
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
@@ -266,7 +266,7 @@ Security Culture is about building an organization where the entire company beco
 - [Cyber Thrills and Auther Quills with (Deb Radcliff)](https://cisotradecraft.podbean.com/e/196-cyber-thrills-and-author-quills-with-deb-radcliff/)
 - [Cybersecurity Apprenticeships (with Craig Barber)](https://cisotradecraft.podbean.com/e/167-cybersecurity-apprenticeships-with-craig-barber/)
 - [Cybersecurity Crisis: Are We Failing the Next Generation?](https://cisotradecraft.podbean.com/e/202-cybersecurity-crisis-are-we-failing-the-next-generation/)
-- [From CruiseCon to AI Threats (with Ira Winkler)](https://cisotradecraft.podbean.com/e/240-from-cruisecon-to-ai-threats-with-ira-winkler/)
+- [From CruiseCon to AI Threats (with Ira Winkler)](https://youtu.be/p2qfTbEP14k?si=CEeKOpHQdER9s8jW)
 - [From Cyber Burnout to VCISO Bliss (with Olivia Rose)](https://cisotradecraft.podbean.com/e/192-from-cyber-burnout-to-vciso-bliss-with-olivia-rose/)
 - [Game-Based Learning (with Andy Serwin & Eric Basu)](https://cisotradecraft.podbean.com/e/153-game-based-learning-with-andy-serwin-eric-basu/)
 - [Hacker Summer Camp](https://cisotradecraft.podbean.com/e/91-hacker-summer-camp/)
@@ -276,7 +276,7 @@ Security Culture is about building an organization where the entire company beco
 - [Listening to the Wise (with Bill Cheswick)](https://cisotradecraft.podbean.com/e/103-listening-to-the-wise-with-bill-cheswick/)
 - [Metrics that Matter](https://cisotradecraft.podbean.com/e/ciso-tradecraft-metrics-that-matter/)
 - [Mentorship, Sponsorship, and A Message to Garcia](https://cisotradecraft.podbean.com/e/102-mentorship-sponsorship-and-a-message-to-garcia/)
-- [Navigating Hacker Summer Camp 2025](https://cisotradecraft.podbean.com/e/243-navigating-hacker-summer-camp-in-2025/)
+- [Navigating Hacker Summer Camp 2025](https://youtu.be/Jt_WBTDyy3o?si=KnYPZu4KIk4h78tL)
 - [Powerful Questions](https://cisotradecraft.podbean.com/e/142-powerful-questions/)
 - [Roses, Buds, & Thorns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-roses-buds-thorns/)
 - [Secure Developer Training Programs (with Scott Russo) Part 1](https://cisotradecraft.podbean.com/e/160-secure-developer-training-programs-with-scott-russo-part-1/)
@@ -295,13 +295,13 @@ Security Culture is about building an organization where the entire company beco
 
 ## Other Topics
 Helpful Topics to improve the quality of life for Cyber Executives
-- [Breaking into Cybersecurity (with Christophe Foulon)](https://cisotradecraft.podbean.com/e/244-breaking-into-cybersecurity-with-christophe-foulon/)
+- [Breaking into Cybersecurity (with Christophe Foulon)](https://youtu.be/9CNQxhDugEs?si=5IJZyqOoyRL6jDgY)
 - [CISO Burnout (with Raghav Singh)](https://cisotradecraft.podbean.com/e/207-ciso-burnout-with-raghav-singh/)
 - [Financial Planning (with Logan Jackson)](https://cisotradecraft.podbean.com/e/130-financial-planning-with-logan-jackson/)
 - [From Hacking to Hardcover (with Bill Pollock)](https://cisotradecraft.podbean.com/e/136-from-hacking-to-hardcover-with-bill-pollock/)
 - [Founding to Funding (with Cyndi and Ron Gula)](https://cisotradecraft.podbean.com/e/132-founding-to-funding-with-cyndi-and-ron-gula/)
-- [Mastering Cybersecurity Recruitment and Career Growth (with Casey Marquette)](https://cisotradecraft.podbean.com/e/245-mastering-cybersecurity-recruitment-and-career-growth-with-casey-marquette/)
+- [Mastering Cybersecurity Recruitment and Career Growth (with Casey Marquette)](https://youtu.be/fbZsbs_nZR0?si=AjUdIfgZmw4MuSG1)
 - [Protecting Your Family](https://cisotradecraft.podbean.com/e/129-protecting-your-most-valuable-asset/)
 - [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
-- [The Secret to Career Success: Your Personal Board of Directors](https://cisotradecraft.podbean.com/e/242-the-secret-to-career-success-your-personal-board-of-directors/)
+- [The Secret to Career Success: Your Personal Board of Directors](https://youtu.be/0dxr4pdTh4U?si=q77uG9PMYt7whFwo)
 - [The Seesaw of Cyber Recruiting (with Lee Kushner)](https://cisotradecraft.podbean.com/e/133-the-seesaw-of-cyber-recruiting-with-lee-kushner/)
