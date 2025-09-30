@@ -36,7 +36,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [The CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/86-the-ciso-mindmap-with-rafeeq-rehman/)
 - [2024 CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/177-2024-ciso-mindmap-with-rafeeq-rehman/)
 - [The 3 Keys to being a CISO (with Allan Alford)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-3-keys-to-being-a-ciso-with-allan-alford/)
-- [The 30 Year CISO Evolution](https://cisotradecraft.podbean.com/e/227-the-30-year-ciso-evolution/)
+- [The 30 Year CISO Evolution](https://youtu.be/sGSDMkNB5DY?si=Bi0gkEw3FPrJNSWW)
 - [The Professionalization of CISOs (with Steve Zalewski & Tyson Kopczynski)](https://cisotradecraft.podbean.com/e/219-the-professionalization-of-cisos-with-steve-zalewski-tyson-kopczynski/)
 - [Updating the Executive Leadership Team on Cyber](https://cisotradecraft.podbean.com/e/92-updating-the-executive-leadership-team-on-cyber/)
 - [Updating the Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/138-updating-the-mindmap-with-rafeeq-rehman/)
@@ -131,11 +131,11 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [SMB CISO Challenges (with Kevin O'Connor)](https://cisotradecraft.podbean.com/e/156-smb-ciso-challenges-with-kevin-o-connor/)
 - [SOC Skills Part 1 (with Hasan Eksi)](https://cisotradecraft.podbean.com/e/155-soc-skills-part-1-with-hasan-eksi/)
 - [SOC Skills Part 2 (with Hasan Eksi)](https://cisotradecraft.podbean.com/e/157-soc-skills-part-2-with-hasan-eksi/)
-- [The Evolution of Data Loss Prevention (DLP)](https://cisotradecraft.podbean.com/e/224-the-evolution-of-data-loss-prevention-dlp/)
+- [The Evolution of Data Loss Prevention (DLP)](https://youtu.be/zjyBU-FVT6E?si=3g6rPhapSOO5rxwn)
 
 ## Enabling Technologies
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer emerging technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
-- [A CISO Primer on Agentic AI](https://cisotradecraft.podbean.com/e/223-a-ciso-primer-on-agenticai/)
+- [A CISO Primer on Agentic AI](https://youtu.be/S29hV4sU9Ao?si=t0ugkx3mmfHckLEY)
 - [AI Coaching (with Tom Bendien)](https://cisotradecraft.podbean.com/e/186-ai-coaching-with-tom-bendien/)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
 - [AI Just Changed Data Security Requirements (with Ronan Murphy)](https://www.youtube.com/watch?v=KH-i8-B9rko)
@@ -147,14 +147,14 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [CISO Predictions for 2024](https://cisotradecraft.podbean.com/e/162-ciso-predictions-for-2024/)
 - [CISO Predictions for 2025](https://cisotradecraft.podbean.com/e/215-ciso-predictions-for-2025/)
 - [Cloud Drift (with Yoni Leitersdorf)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cloud-drift-with-yoni-leitersdorf/)
-- [Executive Updates to AI](https://cisotradecraft.podbean.com/e/220-executive-updates-to-ai/)
+- [Executive Updates to AI](https://youtu.be/sobBEk_cpxM?si=Sx7uw8Onc8kaI4p-)
 - [How AI Changes Talent Management (with Colleen Lennox)](https://cisotradecraft.podbean.com/e/218-how-ai-changes-talent-management-with-colleen-lennox/)
 - [How to Compare Software](https://cisotradecraft.podbean.com/e/ciso-tradecraft-how-to-compare-software/)
 - [How To Make Your AI Less Chatty (with Sounil Yu)](https://youtu.be/XkqPNyzMy5g?si=Z45KCmTz6nDlSGtG)
 - [How to Secure Generative AI](https://cisotradecraft.podbean.com/e/199-how-to-secure-generative-ai/)
 - [Introduction to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
 - [Introduction to the Cloud](https://cisotradecraft.podbean.com/e/ciso-tradecraft-introduction-to-the-cloud/)
-- [Microsoft Majorana is Taking the Quantum Leap](https://cisotradecraft.podbean.com/e/221-microsofts-quantum-breakthrough-the-majorana-chip-explained/)
+- [Microsoft Majorana is Taking the Quantum Leap](https://youtu.be/wV7_d5w87iw?si=EUBBwP0nrPXlVS3c)
 - [Mobile Application Security (with Brian Reed)](https://cisotradecraft.podbean.com/e/97-mobile-application-security-with-brian-reed/)
 - [Model Context Protocol (MCP)](https://youtu.be/ir2zE_PXOdM?si=v1dCKumbNoOtGaOD)
 - [Navigating the Cloud Security Landscape (with Chris Rothe)](https://cisotradecraft.podbean.com/e/183-navigating-the-cloud-security-landscape-with-chris-rothe/)
@@ -170,7 +170,7 @@ Governance is about understanding what technology your organization uses so you 
 - [A European View of CISO Responsibilities (with Michael Krausz)](https://cisotradecraft.podbean.com/e/116-a-european-view-of-ciso-responsibilities-with-michael-krausz/)
 - [Asset Management](https://cisotradecraft.podbean.com/e/ciso-tradecraft-asset-management/)
 - [Board Perspectives](https://cisotradecraft.podbean.com/e/149-board-perspectives/)
-- [CIS CSAT (with Scot Gicking)](https://cisotradecraft.podbean.com/e/228-cis-csat-with-scot-gicking/)
+- [CIS CSAT (with Scot Gicking)](https://youtu.be/XqvPaCz1ivE?si=KBkIAj2RMpMrccC8)
 - [Cyber Frameworks](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-frameworks/)
 - [Cyber Defense Matrix (with Sounil Yu)](https://cisotradecraft.podbean.com/e/82-cyber-defense-matrix-with-sounil-yu/)
 - [Cyber Defense Matrix Reloaded (with Sounil Yu)](https://cisotradecraft.podbean.com/e/83-cyber-matrix-reloaded-with-sounil-yu/)
@@ -185,7 +185,7 @@ Governance is about understanding what technology your organization uses so you 
 - [The 9 Cs of Cyber](https://cisotradecraft.podbean.com/e/96-the-9-c-s-of-cyber/)
 - [The Cost of Cyber Defense](https://cisotradecraft.podbean.com/e/145-the-cost-of-cyber-defense/)
 - [The OWASP Threat and Safeguard Matrix (with Ross Young)](https://youtu.be/DueP1CrYJIE?si=-C-j7soiNCl8FZ3Q)
-- [The Full Irish](https://cisotradecraft.podbean.com/e/225-the-full-irish/)
+- [The Full Irish](https://youtu.be/f2h-5LFRXmo?si=wZwhCVL34aUxM2Sx)
 
 ## Identity & Access Management
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
@@ -235,9 +235,9 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Tackle Your Technical Debt](https://youtu.be/EN-DrUUbDH4?si=e2pfdv6gtEN_tMVE)
 - [The TTPs of a Security Champions Program (with Dustin Lehr)](https://cisotradecraft.podbean.com/e/216-the-ttps-of-a-security-champions-program/)
 - [Threat Modeling (with Adam Shostack)](https://cisotradecraft.podbean.com/e/147-threat-modeling-with-adam-shostack/)
-- [Understanding the Critical Role of CVEs and CVSS](https://cisotradecraft.podbean.com/e/229-understanding-the-critical-role-of-cves-and-cvss/)
+- [Understanding the Critical Role of CVEs and CVSS](https://youtu.be/XqvPaCz1ivE?si=fYTiEI0so3ut0dn8)
 - [Understanding Vulnerabilities, Exploits, and Cybersecurity (with Patrick Garrity and Tod Beardsley)](https://www.youtube.com/watch?v=j7XobHHri7o)
-- [Vulnerability Management (with Chris Hughes)](https://cisotradecraft.podbean.com/e/226-vulnerability-management-with-chris-hughes/)
+- [Vulnerability Management (with Chris Hughes)](https://youtu.be/f2h-5LFRXmo?si=kMf30yo3AiMhyLN7)
 - [Working on the Supply Chain Gang](https://cisotradecraft.podbean.com/e/ciso-tradecraft-working-on-the-supply-chain-gang/)
 
 ## Risk Management
@@ -254,7 +254,7 @@ Risk Management is about effectively identifying what the biggest risks to the c
 
 ## Security Culture
 Security Culture is about building an organization where the entire company becomes resilient.  Building culture requires a strong focus on promoting security awareness and training so employees don’t click malicious links or send sensitive data outside the company.
-- [40 Years of Career Advice in 40 Minutes](https://cisotradecraft.podbean.com/e/222-40-years-of-career-advice-in-40-minutes/)
+- [40 Years of Career Advice in 40 Minutes](https://youtu.be/XcPmOcLE8RM?si=Rzq7AISiu51UENED)
 - [Actionable Gamification and Lasting Success (with Yu-Kai Chou)](https://youtu.be/kySOeBFPtXw?si=JQ7jhwTdW-TV-YhI)
 - [AI Singularity (with Richard Thieme)](https://cisotradecraft.podbean.com/e/209-ai-singularity-with-richard-thieme/)
 - [Aligning Security Initiatives with Business Objectives](https://cisotradecraft.podbean.com/e/ciso-tradecraft-aligning-security-initiatives-with-business-objectives/)
