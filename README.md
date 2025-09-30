@@ -282,7 +282,7 @@ Security Culture is about building an organization where the entire company beco
 - [Secure Developer Training Programs (with Scott Russo) Part 1](https://cisotradecraft.podbean.com/e/160-secure-developer-training-programs-with-scott-russo-part-1/)
 - [Secure Developer Training Programs (With Scott Russo) Part 2](https://cisotradecraft.podbean.com/e/161-secure-developer-training-program-with-scott-russo-part-2/)
 - [Securing the Business Processes](https://youtu.be/sRauDY8klO0?si=ujez6pE6K2Emnj99)
-- [Security Team Operating System (with Christian Hyatt)]([https://cisotradecraft.podbean.com/e/193-security-team-operating-system-with-christian-hyatt/](https://youtu.be/NzdqgNe5WeI?si=hS3PBh6nG6qYDWDM))
+- [Security Team Operating System (with Christian Hyatt)](https://youtu.be/NzdqgNe5WeI?si=hS3PBh6nG6qYDWDM)
 - [Shall We Play A Game?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-shall-we-play-a-game/)
 - [Start Me Up (with Bob Cousins)](https://cisotradecraft.podbean.com/e/105-start-me-up-with-bob-cousins/)
 - [Tackling 3 Really Hard Problems in Cyber (with Andy Ellis)](https://cisotradecraft.podbean.com/e/88-tackling-3-really-hard-problems-in-cyber-with-andy-ellis/)
