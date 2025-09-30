@@ -31,7 +31,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [How do CISOs spend their time?](https://youtu.be/vKYZS1y0f9U?si=t1xCNnKnRevQj3qQ)
 - [How to Win Your First CISO Role](https://cisotradecraft.podbean.com/e/106-winning-your-first-ciso-role/)
 - [Lessons Learned as a CISO (with Gary Hayslip)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-lessons-learned-as-a-ciso/)
-- [Negotiating Your Best CISO Package (with Michael Piacente)](https://youtu.be/G4FMPn5qPb8?si=FaNN0VpNL7uYuXFk)
+- [Negotiating Your Best CISO Package (with Michael Piacente)](https://youtu.be/bm_zGiT0S_I?si=1FP1JuCEgL_czydz)
 - [Refreshing Your Cybersecurity Strategy](https://youtu.be/GOjOTqdilCY?si=6zYnouLdnyzzzoh5)
 - [The CISO Mindmap (with Rafeeq Rehman)](https://cisotradecraft.podbean.com/e/86-the-ciso-mindmap-with-rafeeq-rehman/)
 - [2024 CISO Mindmap (with Rafeeq Rehman)](https://youtu.be/tn08JXV41ZE?si=BYkU0Qa4Ga3V2o2T)
