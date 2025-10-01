@@ -91,7 +91,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [I have more Agents than the FBI](https://youtu.be/Ud3vL_jrWao?si=KYDFZXG0EQ7w8PcZ)
 - [IPv6 Your Competitive Advantage (with Joe Klein)](https://youtu.be/D5shcfM63M4?si=TFw_QgNyU2Zg2yXJ)
 - [Logging in with SIEMs (with Anton Chuvakin)](https://youtu.be/L8y-UoA0Spc?si=eJYM9g5EOk1fZj_L)
-- [NSA's Top 10 Defensive Technologies](https://cisotradecraft.podbean.com/e/ciso-tradecraft-nsas-top-10-cybersecurity-mitigation-strategies/)
+- [NSA's Top 10 Cybersecurity Mitigation Strategies](https://youtu.be/_-yfP2TNH7A?si=zjqS7wxq3WTAAHap)
 - [One Vendor to Secure Them All](https://youtu.be/MNhu7RsApkA?si=4J4Jvz_mLiQvt_Dt)
 - [Operational Resilience](https://youtu.be/Vf0f5TxkxuI?si=KFPtmufjrgvxLMK0)
 - [Outrunning the Bear](https://cisotradecraft.podbean.com/e/98-outrunning-the-bear/)
@@ -127,7 +127,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Ransomware Response (with Ricoh Danielson)](https://youtu.be/BGvkxPQSYnY?si=A5MAWCB-vdbtOJZb)
 - [Salt Typhoon and Vulnerable Telecoms](https://youtu.be/6pCkbQfWYPc?si=bcv3HwkMNptkCjBQ)
 - [Shaping the SOC of Tomorrow (with Debbie Gordon)](https://youtu.be/K2WQ6JfkDd8?si=WRRKKTwxmSby-qIK)
-- [Slay the Dragon or Save the Princess?](https://cisotradecraft.podbean.com/e/ciso-tradecraft-slay-the-dragon-or-save-the-princess/)
+- [Slay the Dragon or Save the Princess?](https://youtu.be/W9nB6VW8zdQ?si=XBcOk6CDUubyB18m)
 - [SMB CISO Challenges (with Kevin O'Connor)](https://youtu.be/diCZfWWB3z8?si=FR5bltwJVxM6dUFH)
 - [SOC Skills Part 1 (with Hasan Eksi)](https://youtu.be/CBONaBLP9Aw?si=0E1A0m_50IYeHhhN)
 - [SOC Skills Part 2 (with Hasan Eksi)](https://youtu.be/xGXcThNegj8?si=qapl80_8824zeOyF)
@@ -137,7 +137,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer emerging technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
 - [A CISO Primer on Agentic AI](https://youtu.be/S29hV4sU9Ao?si=t0ugkx3mmfHckLEY)
 - [AI Coaching (with Tom Bendien)](https://youtu.be/MuJZrUJbQJM?si=aGYDX2AqfSp4Z3-I)
-- [AI and ML and How to Tell When Vendors Are Full of It](https://cisotradecraft.podbean.com/e/ciso-tradecraft-ai-and-ml-and-how-to-tell-when-vendors-are-full-of-it/)
+- [AI and ML and How to Tell When Vendors Are Full of It](https://youtu.be/XUY2Edep6fc?si=yb6l1qWELgyX_nyc)
 - [AI Just Changed Data Security Requirements (with Ronan Murphy)](https://www.youtube.com/watch?v=KH-i8-B9rko)
 - [Avoiding Hurricanes in the Cloud](https://youtu.be/E9lczxRswkk?si=OcCV1WxgC5kBL6Wp)
 - [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
@@ -196,7 +196,7 @@ Identity & Access Management is about limiting the scope of an attacker who coul
 - [MFA Mishaps](https://youtu.be/pnZ-Af6Tm6I?si=AiJp6ldbE_13VP2i)
 - [Pass the Passwords](https://youtu.be/GgiG0tr_OjE?si=rQmVTL_ZxWbGdBBr)
 - [The IAM Masterclass](https://youtu.be/-dXxSKlAMDM?si=LFJVEUkt8mfLn85H)
-- [Zero Trust](https://cisotradecraft.podbean.com/e/ciso-tradecraft-zero-trust/)
+- [Zero Trust](https://youtu.be/GFZBb0LVdik?si=EMWbl3huvX9PGbBp)
 
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
@@ -227,7 +227,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Easier, Better, Faster, & Cheaper Software](https://youtu.be/5yzDG0VAbMg?si=BaomoZh__87KrNlQ)
 - [The Three Ways of DevOps](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-three-ways-of-devops/)
 - [Mastering Vulnerability Management](https://youtu.be/PQ9TlpytJ_Q?si=w50K5uhWE79RAHxI)
-- [Modern Software Development Practices](https://cisotradecraft.podbean.com/e/ciso-tradecraft-modern-software-development-practices/)
+- [Modern Software Development Practices](https://youtu.be/kRDIDaq4GJ8?si=dX0bSeFBbsR6TAre)
 - [OWASP Top 10 Web Application Attacks](https://youtu.be/vma62Kvjnuo?si=uc8yNQL8lXqdFT6e)
 - [Navigating Software Supply Chain Security (with Cassie Crossley)](https://youtu.be/YHG9owlfH8g?si=rROhuP0Fvb28l1UP)
 - [Pentesting for Readiness Not Compliance (with Snehal Antani)](https://youtu.be/Dwjhws0Y-QA?si=r1OaJbt-3FqCz61-)
@@ -278,7 +278,7 @@ Security Culture is about building an organization where the entire company beco
 - [Mentorship, Sponsorship, and A Message to Garcia](https://youtu.be/1qhKEcevEHA?si=pQc1m17L2qP2qwUF)
 - [Navigating Hacker Summer Camp 2025](https://youtu.be/Jt_WBTDyy3o?si=KnYPZu4KIk4h78tL)
 - [Powerful Questions](https://youtu.be/LSNUEa--oPM?si=QnZmKY6WBwMWxFWd)
-- [Roses, Buds, & Thorns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-roses-buds-thorns/)
+- [Roses, Buds, & Thorns](https://youtu.be/S0gqCfh-aLo?si=Rwn6xQysYPE9eJYM)
 - [Secure Developer Training Programs (with Scott Russo) Part 1](https://youtu.be/NkrtTncAuBA?si=l5VeOpBHRESW4Fug)
 - [Secure Developer Training Programs (with Scott Russo) Part 2](https://youtu.be/ZYAHakgGqa4?si=AFGMurfAGgObjxBd)
 - [Securing the Business Processes](https://youtu.be/sRauDY8klO0?si=ujez6pE6K2Emnj99)
