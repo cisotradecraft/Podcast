@@ -61,6 +61,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [Grey is the New Black (with Ryan Gooler)](https://youtu.be/Q-7CXqYEGZU?si=Vcds7NRuCT8_8zGO)
 - [How to Read Your Boss](https://cisotradecraft.podbean.com/e/ciso-tradecraft-change-the-way-you-persuade/)
 - [Leading with Style](https://youtu.be/AkXWkU69h4Y?si=iSlXwAE28H9DK_hd)
+- [Master Storytelling for CISOs (with Neal Ford)](https://youtu.be/hShhrnOUHtg?si=d-bT-Qc9LyWGbQk7)
 - [New Kid in Town (with Rebecca Mossman)](https://youtu.be/ex0RAkwjhKU?si=c67-CMP2rO0AAnzW)
 - [Partnership is Key](https://youtu.be/ijBaAR_kFJY?si=A80Q8jYiG5683oFk)
 - [Presentation Skills](https://youtu.be/vzyA3WqigYw?si=ntV4hSJpEhLUeGBB)
