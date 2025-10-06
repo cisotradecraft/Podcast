@@ -40,7 +40,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [The Professionalization of CISOs (with Steve Zalewski & Tyson Kopczynski)](https://youtu.be/--qMVgdCgrQ?si=8BpUP3pl3PHgGrd5)
 - [Updating the Executive Leadership Team on Cyber](https://cisotradecraft.podbean.com/e/92-updating-the-executive-leadership-team-on-cyber/)
 - [Updating the Mindmap (with Rafeeq Rehman)](https://youtu.be/zzAuIasvLl4?si=c-I4aAbCK4AiRdqn)
-- [Your First 90 Days as a CISO (with Mark Egan)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-your-first-90-days-as-a-ciso-with-mark-egan/)
+- [Your First 90 Days as a CISO (with Mark Egan)](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087252)
 
 ## Business Management & Leadership
 Business Management & Leadership is an essential skill for executives to lead and influence others.  These soft skills are critical to organizations where politics requires effective leaders to implement change via large collaboration efforts.  
@@ -99,7 +99,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [SAST Security (with John Steven)](https://youtu.be/9hRO9RyD9ZU?si=kwqzW9eUq0Fs-joD)
 - [Say Firewall One More Time](https://youtu.be/KSMJqEbhiBo?si=YFr3LtbBdDlHR7te)
 - [Securing Small Businesses](https://youtu.be/qvh_VUCzZ4Q?si=FcjMNN6YdAg0vtyu)
-- [The Essential 8](https://cisotradecraft.podbean.com/e/ciso-tradecraft-the-essential-eight/)
+- [The Essential 8](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087257)
 - [The Fab 5 Security Outcomes Study (with Helen Patton)](https://youtu.be/YzcYGFumcM4?si=AURp7DOcLwQf7n3d)
 
 ## Detection and Response Capabilities
@@ -115,7 +115,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Cyber Threat Intelligence (with Jeff Majka & Andrew Dutton)](https://youtu.be/yzLCUJJ1DqE?si=08Tmarla7Zagh2SY)
 - [Data Engineering (with Gal Shpantzer)](https://youtu.be/oP1PePgmkHM?si=z3ES96svV1GyEzuW)
 - [Deceive to Detect (with Yuriy Gatupov)](https://youtu.be/LSpmT9VLqBM?si=ulbzojXnHBWFaQA1)
-- [Everything you wanted to know about Ransomware](https://cisotradecraft.podbean.com/e/ciso-tradecraft-everything-you-wanted-to-know-about-ransomware/)
+- [Everything you wanted to know about Ransomware](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087249)
 - [Flirting with Disaster (BCPs, DRPs, and BIA)](https://youtu.be/OSz9ytKk6UE?si=HcQD0nExJFb8zWwv)
 - [From Hunt Team to Hunter (with Bryce Kunz)](https://youtu.be/A82rN_AOmtA?si=L29_Bolgbnj12Qyz)
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
@@ -141,7 +141,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [AI and ML and How to Tell When Vendors Are Full of It](https://youtu.be/XUY2Edep6fc?si=yb6l1qWELgyX_nyc)
 - [AI Just Changed Data Security Requirements (with Ronan Murphy)](https://www.youtube.com/watch?v=KH-i8-B9rko)
 - [Avoiding Hurricanes in the Cloud](https://youtu.be/E9lczxRswkk?si=OcCV1WxgC5kBL6Wp)
-- [Blockchain for CISOs](https://cisotradecraft.podbean.com/e/ciso-tradecraft-blockchain/)
+- [Blockchain for CISOs](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087247)
 - [Border Gateway Protocol (BGP)](https://youtu.be/bF7f71v1W58?si=DgpA0U9qK4ozhHQg)
 - [ChatGPT & Generative AI (with Konstantinos Sgantzos)](https://youtu.be/WLOUBoEdPEY?si=Yi8nCOkQSkMtcjoP)
 - [CISO Predictions for 2023](https://youtu.be/TCSJXOwIb0k?si=XWuDGjWmN5qVzeCG)
@@ -192,7 +192,7 @@ Governance is about understanding what technology your organization uses so you 
 Identity & Access Management is about limiting the scope of an attacker who could cause harm to your organization.  This is a key skill set for organizations that use lots of technologies from external vendors/providers. This knowledge is also helpful for organizations where data sharing agreements with partners and third parties is common.
 - [Authentication, Rainbow Tables, and Password Managers](https://youtu.be/6r0YnqV1EZ0?si=YDZoSkiX0VQJFiVS)
 - [Betting on MFA](https://youtu.be/4wmeyJKHmJ8?si=ShD7GUszHm4Me2_7)
-- [Identity and Access Management is the New Perimeter](https://cisotradecraft.podbean.com/e/identity-and-access-management-is-the-new-perimeter/)
+- [Identity and Access Management is the New Perimeter](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087244)
 - [Knock Knock, Who's There and Whatcha Want?](https://youtu.be/X-feRPQdxl0?si=cZvRh0Q72gSLgkZd)
 - [MFA Mishaps](https://youtu.be/pnZ-Af6Tm6I?si=AiJp6ldbE_13VP2i)
 - [Pass the Passwords](https://youtu.be/GgiG0tr_OjE?si=rQmVTL_ZxWbGdBBr)
