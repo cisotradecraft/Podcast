@@ -118,7 +118,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Everything you wanted to know about Ransomware](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087249)
 - [Flirting with Disaster (BCPs, DRPs, and BIA)](https://youtu.be/OSz9ytKk6UE?si=HcQD0nExJFb8zWwv)
 - [From Hunt Team to Hunter (with Bryce Kunz)](https://youtu.be/A82rN_AOmtA?si=L29_Bolgbnj12Qyz)
-- [Got any Threat Intelligence? (with Landon Winkelvoss)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-got-any-threat-intelligence/)
+- [Got any Threat Intelligence? (with Landon Winkelvoss)](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087232)
 - [How to Stop Bad Guys from Staying on Your Network (with Kevin Fiscus)](https://youtu.be/pze7uRMa1Rk?si=8XPJu6xiUJxoceTX)
 - [Inside the 2024 Verizon Data Breach Investigations Report](https://youtu.be/pGHZ5nVkZ10?si=UOFMHS1HmRH6fG6b)
 - [Inside the 2025 Verizon Data Breach Investigations Report](https://youtu.be/SAjFwNMzZJg?si=kOg0OHmOMGmPP81B)
@@ -153,7 +153,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [How to Compare Software](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087259)
 - [How To Make Your AI Less Chatty (with Sounil Yu)](https://youtu.be/XkqPNyzMy5g?si=Z45KCmTz6nDlSGtG)
 - [How to Secure Generative AI](https://youtu.be/5Br6t98_VaU?si=Sm_DXlW_de-aMVcZ)
-- [Introduction to Docker Containers and Kubernetes (K8s)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-intro-to-docker-containers-and-kubernetes-k8s/)
+- [Introduction to Docker Containers and Kubernetes (K8s)](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087229)
 - [Introduction to the Cloud](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087264)
 - [Microsoft Majorana is Taking the Quantum Leap](https://youtu.be/wV7_d5w87iw?si=EUBBwP0nrPXlVS3c)
 - [Mobile Application Security (with Brian Reed)](https://youtu.be/RwPdc-Qed48?si=WkkoKPwkD13lpdo7)
@@ -201,7 +201,7 @@ Identity & Access Management is about limiting the scope of an attacker who coul
 
 ## Laws, Regulations, & Oversight
 Laws, Regulations, and Oversight is about ensuring compliance with appropriate laws and regulations.  This is particularly useful in highly regulated industries (Financial Services or Medical Industry).  Organizations that are coming out of a data breach scenario are also likely to find increased scrutiny by regulators/auditors.
-- [Brace for Audit (with Brian Murphy)](https://cisotradecraft.podbean.com/e/ciso-tradecraft-brace-for-audit/)
+- [Brace for Audit (with Brian Murphy)](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087216)
 - [Build a World Class GRC Program (with Matt Hillary)](https://youtu.be/38SaMlNZEd4?si=69dbL9yuM5BIb-O4)
 - [Copywriting AI (with Mark Rasch)](https://youtu.be/UnH8EfXQaoQ?si=pj9HQoq8GTxpq4c4)
 - [Cyber Law Musings (with Mark Rasch)](https://youtu.be/w3wrQqzb3YE?si=OyIBGPm6qa-e8oNw)
@@ -303,6 +303,6 @@ Helpful Topics to improve the quality of life for Cyber Executives
 - [Founding to Funding (with Cyndi and Ron Gula)](https://youtu.be/gc4i5-1JB18?si=aYBKgpyKiXswxaIm)
 - [Mastering Cybersecurity Recruitment and Career Growth (with Casey Marquette)](https://youtu.be/fbZsbs_nZR0?si=AjUdIfgZmw4MuSG1)
 - [Protecting Your Family](https://youtu.be/D4SRQX96yxk?si=mP69PtPUkm0sWycn)
-- [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://cisotradecraft.podbean.com/e/ciso-tradecraft-stressed-out-find-your-ikigai-and-6-invaluable-factors/)
+- [Stressed Out? Find your Ikigai and 6 Invaluable Factors](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087234)
 - [The Secret to Career Success: Your Personal Board of Directors](https://youtu.be/0dxr4pdTh4U?si=q77uG9PMYt7whFwo)
 - [The Seesaw of Cyber Recruiting (with Lee Kushner)](https://youtu.be/UcHS44kvEXU?si=Z2kWrV7_8JQm8_O5)
