@@ -47,7 +47,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [1% Better Leadership (with Andy Ellis)](https://youtu.be/0syWhD-ojkY?si=g7BL5ZwG_Za1CIDY)
 - [A Black Hat Chat with ThreatLocker CEO Danny Jenkins](https://youtu.be/PAonCZdDeHw?si=LGTAYFCm9K5hQFBg)
 - [Accepted Cyber Security Strategy (with Branden Newman)](https://youtu.be/xEERWcDVk9U?si=ZXOtvkUKrfZ4ga1w)
-- [Addressing the Top CEO Concerns](https://cisotradecraft.podbean.com/e/ciso-tradecraft-addressing-the-top-ceo-concerns/)
+- [Addressing the Top CEO Concerns](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087194)
 - [Connecting the Dots (with Sean Heritage)](https://youtu.be/_xX1so7fcpo?si=JP-LX2Bp709vV1ZE)
 - [Crisis Leadership (with G Mark Hardy's 9/11 Experience)](https://youtu.be/eM6DJNo4hhk?si=s9ucaw1gXxJiBzIA)
 - [Crucial Conversations](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087265)
@@ -116,7 +116,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Data Engineering (with Gal Shpantzer)](https://youtu.be/oP1PePgmkHM?si=z3ES96svV1GyEzuW)
 - [Deceive to Detect (with Yuriy Gatupov)](https://youtu.be/LSpmT9VLqBM?si=ulbzojXnHBWFaQA1)
 - [Everything you wanted to know about Ransomware](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087249)
-- [Flirting with Disaster (BCPs, DRPs, and BIA)](https://youtu.be/OSz9ytKk6UE?si=HcQD0nExJFb8zWwv)
+- [Flirting with Disaster](https://youtu.be/OSz9ytKk6UE?si=HcQD0nExJFb8zWwv)
 - [From Hunt Team to Hunter (with Bryce Kunz)](https://youtu.be/A82rN_AOmtA?si=L29_Bolgbnj12Qyz)
 - [Got any Threat Intelligence? (with Landon Winkelvoss)](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087232)
 - [How to Stop Bad Guys from Staying on Your Network (with Kevin Fiscus)](https://youtu.be/pze7uRMa1Rk?si=8XPJu6xiUJxoceTX)
@@ -292,7 +292,7 @@ Security Culture is about building an organization where the entire company beco
 - [The Business Case for a Global Lead of Field Cybersecurity (with Joye Purser)](https://youtu.be/nQPQGMXEqSk?si=nrLgvgCeD3EUGna5)
 - [There's Room For Everybody In Your Router (with Giorgio Perticone)](https://youtu.be/rVJgoSDbIEQ?si=HDPwqGq8X2q5mZxN)
 - [Thought Provoking Discussions (with Richard Thieme)](https://youtu.be/OoRR2uHeyvo?si=rBHMnhO7joEhzZDh)
-- [Wonderful (with Winn Schwartau)](https://youtu.be/0CrAqAXqMJ0?si=onoFlPTYr4wLz7bn)
+- [Wonderful Winn Schwartau](https://youtu.be/0CrAqAXqMJ0?si=onoFlPTYr4wLz7bn)
 
 ## Other Topics
 Helpful Topics to improve the quality of life for Cyber Executives
