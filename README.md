@@ -104,7 +104,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 
 ## Detection and Response Capabilities
 Detection & Response Capabilities is about creating an organization to identify how attackers might circumvent your organization’s defensive technologies.  Since 100% protection isn’t achievable, it’s about effective incident response to cyber incidents such as ransomware or business email compromise.  This section also includes Offensive Security Concepts, Business Continuity, and Disaster Recovery Planning.
-- [10 Steps to Cyber Incident Response Playbooks](https://cisotradecraft.podbean.com/e/10-steps-to-cyber-incident-response-playbooks/)
+- [10 Steps to Cyber Incident Response Playbooks](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087240)
 - [Be SOCcessful with the SOC-CMM](https://youtu.be/zKXSuGxu-OI?si=rU01svhK5qGBSEpr)
 - [Brace for Incident (with Bryan Murphy)](https://youtu.be/MBMUTcaxXlI?si=C4MC4DJH7AQD7MPo)
 - [Breach and Attack Simulation (with Dave Klein)](https://youtu.be/kztVTURwGeE?si=n7UgrtEwPKQl4Pil)
@@ -205,12 +205,12 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 - [Build a World Class GRC Program (with Matt Hillary)](https://youtu.be/38SaMlNZEd4?si=69dbL9yuM5BIb-O4)
 - [Copywriting AI (with Mark Rasch)](https://youtu.be/UnH8EfXQaoQ?si=pj9HQoq8GTxpq4c4)
 - [Cyber Law Musings (with Mark Rasch)](https://youtu.be/w3wrQqzb3YE?si=OyIBGPm6qa-e8oNw)
-- [Cyber Security Laws and Regulations](https://cisotradecraft.podbean.com/e/ciso-tradecraft-cyber-security-laws/)
+- [Cyber Security Laws and Regulations](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087236)
 - [Cyberwar and the Law of Armed Conflict (with Lary Dietz)](https://youtu.be/2jUduQWGK3s?si=agumoSt3AxLhZw-v)
 - [CMMC and Me](https://youtu.be/QPxzj5Myrik?si=2co0RUCy7FWHK0Ut)
 - [Emerging Risks with the Chertoff Group](https://youtu.be/NHBB0eCudeo?si=3jN3wlEEKjZwWfEE)
 - [Ethics (with Stephen Northcutt)](https://youtu.be/SUyVj2yDSys?si=diJHGJ08txDnYbE7)
-- [Executive Order on Improving the Nation’s Cybersecurity](https://cisotradecraft.podbean.com/e/ciso-tradecraft-executive-order-on-cyber-security/)
+- [Executive Order on Improving the Nation’s Cybersecurity](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087242)
 - [Fedshark's Blueprint for Cost Effective Risk Reduction](https://youtu.be/nd4nKIh3Wus?si=KmYU1k8I9txOOmho)
 - [From Breach to Bench (with Thomas Ritter)](https://youtu.be/hT4RGasWfAo?si=NDEQL2WmSIyG7Hl0)
 - [Handling Regulatory Change](https://youtu.be/xX8lGNcgr-4?si=LUmBRL_uHYJ_mi83)
@@ -232,7 +232,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [OWASP Top 10 Web Application Attacks](https://youtu.be/vma62Kvjnuo?si=uc8yNQL8lXqdFT6e)
 - [Navigating Software Supply Chain Security (with Cassie Crossley)](https://youtu.be/YHG9owlfH8g?si=rROhuP0Fvb28l1UP)
 - [Pentesting for Readiness Not Compliance (with Snehal Antani)](https://youtu.be/Dwjhws0Y-QA?si=r1OaJbt-3FqCz61-)
-- [Setting Up an Application Security Program](https://cisotradecraft.podbean.com/e/ciso-tradecraft-setting-up-an-application-security-program/)
+- [Setting Up an Application Security Program](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087238)
 - [Tackle Your Technical Debt](https://youtu.be/EN-DrUUbDH4?si=e2pfdv6gtEN_tMVE)
 - [The TTPs of a Security Champions Program (with Dustin Lehr)](https://youtu.be/bS8wWft_fr0?si=xbOK9LZ72DzL_F0L)
 - [Threat Modeling (with Adam Shostack)](https://youtu.be/xWqgaeCXUPc?si=5TrGkT0lYw03wQiY)
