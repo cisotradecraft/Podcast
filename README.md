@@ -38,7 +38,7 @@ This topic is used to increase understanding about the position of a Chief Infor
 - [The 3 Keys to being a CISO (with Allan Alford)](https://youtu.be/wlyy_TNK-XY?si=mMu6mDJZD_KOPBAp)
 - [The 30 Year CISO Evolution](https://youtu.be/sGSDMkNB5DY?si=Bi0gkEw3FPrJNSWW)
 - [The Professionalization of CISOs (with Steve Zalewski & Tyson Kopczynski)](https://youtu.be/--qMVgdCgrQ?si=8BpUP3pl3PHgGrd5)
-- [Updating the Executive Leadership Team on Cyber](https://cisotradecraft.podbean.com/e/92-updating-the-executive-leadership-team-on-cyber/)
+- [Updating the Executive Leadership Team on Cyber](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087181)
 - [Updating the Mindmap (with Rafeeq Rehman)](https://youtu.be/zzAuIasvLl4?si=c-I4aAbCK4AiRdqn)
 - [Your First 90 Days as a CISO (with Mark Egan)](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087252)
 
@@ -95,7 +95,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [NSA's Top 10 Cybersecurity Mitigation Strategies](https://youtu.be/_-yfP2TNH7A?si=zjqS7wxq3WTAAHap)
 - [One Vendor to Secure Them All](https://youtu.be/MNhu7RsApkA?si=4J4Jvz_mLiQvt_Dt)
 - [Operational Resilience](https://youtu.be/Vf0f5TxkxuI?si=KFPtmufjrgvxLMK0)
-- [Outrunning the Bear](https://cisotradecraft.podbean.com/e/98-outrunning-the-bear/)
+- [Outrunning the Bear](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087175)
 - [SAST Security (with John Steven)](https://youtu.be/9hRO9RyD9ZU?si=kwqzW9eUq0Fs-joD)
 - [Say Firewall One More Time](https://youtu.be/KSMJqEbhiBo?si=YFr3LtbBdDlHR7te)
 - [Securing Small Businesses](https://youtu.be/qvh_VUCzZ4Q?si=FcjMNN6YdAg0vtyu)
@@ -222,7 +222,7 @@ Laws, Regulations, and Oversight is about ensuring compliance with appropriate l
 
 ## Product Security
 Product Security is focused on ensuring developers write secure code.  This can be a competitive advantage for organizations that build large amounts of custom code.
-- [A CISO's Guide to Pentesting](https://cisotradecraft.podbean.com/e/90-a-ciso-s-guide-to-pentesting/)
+- [A CISO's Guide to Pentesting](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087183)
 - [Complexity is Killing Us](https://youtu.be/iLOrOkAN94Q?si=oBeFcXwpglzdFTS2)
 - [DevOps](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087266)
 - [Easier, Better, Faster, & Cheaper Software](https://youtu.be/5yzDG0VAbMg?si=BaomoZh__87KrNlQ)
