@@ -62,6 +62,7 @@ Business Management & Leadership is an essential skill for executives to lead an
 - [How to Read Your Boss](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087270)
 - [Leading with Style](https://youtu.be/AkXWkU69h4Y?si=iSlXwAE28H9DK_hd)
 - [Master Storytelling for CISOs (with Neal Ford)](https://youtu.be/hShhrnOUHtg?si=d-bT-Qc9LyWGbQk7)
+- [Maximize the Outcomes Per Dollar in Cyber (with Ross Young)](https://www.youtube.com/watch?v=npp90maqpGw)
 - [New Kid in Town (with Rebecca Mossman)](https://youtu.be/ex0RAkwjhKU?si=c67-CMP2rO0AAnzW)
 - [Partnership is Key](https://youtu.be/ijBaAR_kFJY?si=A80Q8jYiG5683oFk)
 - [Presentation Skills](https://youtu.be/vzyA3WqigYw?si=ntV4hSJpEhLUeGBB)
