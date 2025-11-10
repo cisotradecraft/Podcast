@@ -235,6 +235,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Modern Software Development Practices](https://youtu.be/kRDIDaq4GJ8?si=dX0bSeFBbsR6TAre)
 - [OWASP Top 10 Web Application Attacks](https://youtu.be/vma62Kvjnuo?si=uc8yNQL8lXqdFT6e)
 - [Navigating Software Supply Chain Security (with Cassie Crossley)](https://youtu.be/YHG9owlfH8g?si=rROhuP0Fvb28l1UP)
+- [Patch or Perish (with Ross Young)](https://www.youtube.com/watch?v=295Q4iQOpx4)
 - [Pentesting for Readiness Not Compliance (with Snehal Antani)](https://youtu.be/Dwjhws0Y-QA?si=r1OaJbt-3FqCz61-)
 - [Setting Up an Application Security Program](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087238)
 - [Tackle Your Technical Debt](https://youtu.be/EN-DrUUbDH4?si=e2pfdv6gtEN_tMVE)
