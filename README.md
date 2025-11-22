@@ -88,6 +88,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [Consolidating Vulnerability Management (with Jeff Gouge)](https://youtu.be/lM6P8kTX99o?si=v5qqJqrIdZ3A3Mi2)
 - [Cryptography](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087262)
 - [Data Protection (with Amer Deeba)](https://youtu.be/FQoHkaoZsgM?si=PO3Yd2fvV3nbFuQ9)
+- [Mastering Defense Against Configurations ( Yuriy Tsibere)](https://www.youtube.com/watch?v=Ht9qwwVexpk)
 - [Fun and Games to Stop Bad Actors (with Dr. Neal Krawetz)](https://youtu.be/xtozbNEHV1E?si=pJgWPuzRePVyNBjw)
 - [Got any Data Security (with Brian Vecci)](https://youtu.be/TrAR0BLlGjQ?si=-Oy5hDMwISAlP1Vd)
 - [Global War on Email](https://youtu.be/ZyePREyuBkY?si=ziDzZxzUe3CPuly9)
@@ -135,6 +136,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [SOC Skills Part 1 (with Hasan Eksi)](https://youtu.be/CBONaBLP9Aw?si=0E1A0m_50IYeHhhN)
 - [SOC Skills Part 2 (with Hasan Eksi)](https://youtu.be/xGXcThNegj8?si=qapl80_8824zeOyF)
 - [The Evolution of Data Loss Prevention (DLP)](https://youtu.be/zjyBU-FVT6E?si=3g6rPhapSOO5rxwn)
+- [Transforming Security Operations (with Brian Carbaugh and William Macmillan)](https://www.youtube.com/watch?v=epXp0XkOtS4)
 
 ## Enabling Technologies
 Enabling Technologies is about enabling businesses to create digital transformation.  This is helpful when organizations feel their technology is dated and want to adopt newer emerging technologies such as Artifical Intelligence, 5G, Internet of Things, Serverless Computing, Biometrics, Augmented/Virtual Reality, Blockchain, Robotics, Natural Language Processing, Quantum Computing, etc.  Essentially this type of CISO focuses on technology transformation to enable the business.
@@ -274,6 +276,7 @@ Security Culture is about building an organization where the entire company beco
 - [Cybersecurity Crisis: Are We Failing the Next Generation?](https://youtu.be/3Ne0peI8G2E?si=77Q6vuWwiDhEa1F8)
 - [From CruiseCon to AI Threats (with Ira Winkler)](https://youtu.be/p2qfTbEP14k?si=CEeKOpHQdER9s8jW)
 - [From Cyber Burnout to VCISO Bliss (with Olivia Rose)](https://youtu.be/7WkW5c5M63w?si=MeVWgtl3B0gcrXXI)
+- [From Invention to Entrepreneurship (with Jeri Ellsworth)](https://www.youtube.com/watch?v=7LOnBrwjSlI)
 - [Game-Based Learning (with Andy Serwin & Eric Basu)](https://youtu.be/45eViHH_ktA?si=lzkwP06Z7c_rg8I-)
 - [Hacker Summer Camp](https://youtu.be/uapUe9gA7Zs?si=YQ1BJS_MLtiS3vjn)
 - [How to Become a Cyber Security Expert](https://youtu.be/StJxGTmw-7k?si=EbmSyB-2G194NVyY)
