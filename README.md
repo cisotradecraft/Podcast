@@ -144,6 +144,7 @@ Enabling Technologies is about enabling businesses to create digital transformat
 - [AI Coaching (with Tom Bendien)](https://youtu.be/MuJZrUJbQJM?si=aGYDX2AqfSp4Z3-I)
 - [AI and ML and How to Tell When Vendors Are Full of It](https://youtu.be/XUY2Edep6fc?si=yb6l1qWELgyX_nyc)
 - [AI Just Changed Data Security Requirements (with Ronan Murphy)](https://www.youtube.com/watch?v=KH-i8-B9rko)
+- [AI Mastery for CISOs: What You Must Know](https://www.youtube.com/watch?v=qX8BCC33z_4)
 - [Avoiding Hurricanes in the Cloud](https://youtu.be/E9lczxRswkk?si=OcCV1WxgC5kBL6Wp)
 - [Blockchain for CISOs](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087247)
 - [Border Gateway Protocol (BGP)](https://youtu.be/bF7f71v1W58?si=DgpA0U9qK4ozhHQg)
