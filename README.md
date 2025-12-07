@@ -245,6 +245,7 @@ Product Security is focused on ensuring developers write secure code.  This can 
 - [Threat Modeling (with Adam Shostack)](https://youtu.be/xWqgaeCXUPc?si=5TrGkT0lYw03wQiY)
 - [Understanding the Critical Role of CVEs and CVSS](https://youtu.be/XqvPaCz1ivE?si=fYTiEI0so3ut0dn8)
 - [Understanding Vulnerabilities, Exploits, and Cybersecurity (with Patrick Garrity and Tod Beardsley)](https://www.youtube.com/watch?v=j7XobHHri7o)
+- [Vibe Coding Security (with Neatsun Ziv)](https://www.youtube.com/watch?v=vco6ncUv7iw)
 - [Vulnerability Management (with Chris Hughes)](https://youtu.be/f2h-5LFRXmo?si=kMf30yo3AiMhyLN7)
 - [Working on the Supply Chain Gang](https://youtu.be/GTPdmst-aAc?si=18CrsTs3Ra18bCnA)
 
