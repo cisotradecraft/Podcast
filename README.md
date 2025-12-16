@@ -2,7 +2,7 @@
 Want to learn about cyber security?<br><br>
 CISO Tradecraft® provides fun and engaging podcasts on the Top 10 Cybersecurity Topic Domains.  Whether you're a newbie or an expert, there's important tradecraft here for everyone to learn.  
 
-[Subscribe](https://linktr.ee/cisotradecraft) to get the lastest content. THANK YOU!
+[Subscribe](https://linktr.ee/cisotradecraft) to get the latest content. THANK YOU!
 ## Topic Domains
 <img src=images/NewCISOTradecraftTopics.jpg width="500" height="500">
 
