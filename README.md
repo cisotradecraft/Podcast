@@ -93,7 +93,6 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [Global War on Email](https://youtu.be/ZyePREyuBkY?si=ziDzZxzUe3CPuly9)
 - [I have more Agents than the FBI](https://youtu.be/Ud3vL_jrWao?si=KYDFZXG0EQ7w8PcZ)
 - [IPv6 Your Competitive Advantage (with Joe Klein)](https://youtu.be/D5shcfM63M4?si=TFw_QgNyU2Zg2yXJ)
-- [Logging in with SIEMs (with Anton Chuvakin)](https://youtu.be/L8y-UoA0Spc?si=eJYM9g5EOk1fZj_L)
 - [Mastering Defense Against Configurations ( Yuriy Tsibere)](https://www.youtube.com/watch?v=Ht9qwwVexpk)
 - [NSA's Top 10 Cybersecurity Mitigation Strategies](https://youtu.be/_-yfP2TNH7A?si=zjqS7wxq3WTAAHap)
 - [One Vendor to Secure Them All](https://youtu.be/MNhu7RsApkA?si=4J4Jvz_mLiQvt_Dt)
@@ -102,6 +101,7 @@ Defensive Technologies is about creating defense in depth in an organization to 
 - [SAST Security (with John Steven)](https://youtu.be/9hRO9RyD9ZU?si=kwqzW9eUq0Fs-joD)
 - [Say Firewall One More Time](https://youtu.be/KSMJqEbhiBo?si=YFr3LtbBdDlHR7te)
 - [Securing Small Businesses](https://youtu.be/qvh_VUCzZ4Q?si=FcjMNN6YdAg0vtyu)
+- [Stopping Attacks To Your Cloud Office Environment (with Rajan Kapoor)](https://www.youtube.com/watch?v=inmL7eJkriE)
 - [The Essential 8](https://www.cisotradecraft.com/podcasts/ciso-tradecraft/episodes/2149087257)
 - [The Fab 5 Security Outcomes Study (with Helen Patton)](https://youtu.be/YzcYGFumcM4?si=AURp7DOcLwQf7n3d)
 
@@ -127,6 +127,7 @@ Detection & Response Capabilities is about creating an organization to identify 
 - [Inside the 2025 Verizon Data Breach Investigations Report](https://youtu.be/SAjFwNMzZJg?si=kOg0OHmOMGmPP81B)
 - [Insider Threat (with Shawnee Delaney)](https://youtu.be/EKCe94hqAes?si=EdMUDV6k7t2aGiZb)
 - [Insider Threat Operations (with Jim Lawler)](https://youtu.be/63ijW11MJPs?si=2uMitFgZzs-3LBD3)
+- [Logging in with SIEMs (with Anton Chuvakin)](https://youtu.be/L8y-UoA0Spc?si=eJYM9g5EOk1fZj_L)
 - [Modernizing our SOC Ingest (with JP Bourget)](https://youtu.be/XWNCpmmOpGA?si=ZEXvBRdhi9PMo_tC)
 - [Ransomware Response (with Ricoh Danielson)](https://youtu.be/BGvkxPQSYnY?si=A5MAWCB-vdbtOJZb)
 - [Salt Typhoon and Vulnerable Telecoms](https://youtu.be/6pCkbQfWYPc?si=bcv3HwkMNptkCjBQ)
