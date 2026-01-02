@@ -1,4 +1,7 @@
 ## CISO Tradecraft®
+Please note this page has been moved to the following website:
+[www.cisotradecraft.com/episodes](https://www.cisotradecraft.com/episodes)
+
 Want to learn about cyber security?<br><br>
 CISO Tradecraft® provides fun and engaging podcasts on the Top 10 Cybersecurity Topic Domains.  Whether you're a newbie or an expert, there's important tradecraft here for everyone to learn.  
 
